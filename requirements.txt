@@ -1,0 +1,28 @@
+# Sentiment Lab — core dependencies (Python 3.12 compatible)
+Flask==3.0.3
+Werkzeug==3.0.3
+vaderSentiment==3.3.2
+pandas==2.2.2
+python-dotenv==1.0.1
+gunicorn==22.0.0
+
+# YouTube Data API v3 + blog fetching.
+# Plain `requests` is used instead of google-api-python-client: the two
+# endpoints we need are simple REST calls, and this avoids pulling in
+# google-auth, httplib2, protobuf and friends.
+requests==2.32.3
+
+# Blog comment extraction (HTML parsing only — no browser automation).
+beautifulsoup4==4.12.3
+
+# Lightweight, pure-Python language detection (~1 MB, no model download).
+langdetect==1.0.9
+
+# NOTE: multilingual (Hindi / Hinglish) sentiment needs transformers + torch.
+# Those are large, so they live in requirements-multilingual.txt and are
+# installed separately. The app runs fine without them — it just tells you
+# that non-English text cannot be scored properly.
+#
+# NOTE: `nltk` was in the v1 requirements but is not imported anywhere in the
+# codebase (VADER ships its own lexicon), so it has been dropped. Re-add it
+# if you extend the project with tokenisation or stopword features.

@@ -1,0 +1,5001 @@
+id,comment,batch
+1,The box was blue,0
+2,It arrived on Tuesday,1
+3,I love this so much,2
+4,It arrived on Tuesday,3
+5,"Awful experience, would not recommend",4
+6,I love this so much,5
+7,Received the item,6
+8,Absolutely fantastic quality,0
+9,Excellent service!,1
+10,I love this so much,2
+11,I love this so much,3
+12,Poor service and late delivery,4
+13,Absolutely fantastic quality,5
+14,Absolutely fantastic quality,6
+15,Received the item,0
+16,I love this so much,1
+17,Very disappointed,2
+18,"Awful experience, would not recommend",3
+19,Absolutely fantastic quality,4
+20,It arrived on Tuesday,5
+21,"Terrible quality, broke instantly",6
+22,"Terrible quality, broke instantly",0
+23,"Awful experience, would not recommend",1
+24,Received the item,2
+25,Received the item,3
+26,Poor service and late delivery,4
+27,Standard packaging,5
+28,Absolutely fantastic quality,6
+29,"Awful experience, would not recommend",0
+30,"Great value, highly recommend",1
+31,Poor service and late delivery,2
+32,Received the item,3
+33,It arrived on Tuesday,4
+34,Excellent service!,5
+35,"Great value, highly recommend",6
+36,Excellent service!,0
+37,It arrived on Tuesday,1
+38,"Terrible quality, broke instantly",2
+39,Very disappointed,3
+40,Standard packaging,4
+41,Poor service and late delivery,5
+42,Poor service and late delivery,6
+43,I love this so much,0
+44,Received the item,1
+45,"Terrible quality, broke instantly",2
+46,"Great value, highly recommend",3
+47,Poor service and late delivery,4
+48,Received the item,5
+49,Very disappointed,6
+50,Excellent service!,0
+51,The box was blue,1
+52,"Terrible quality, broke instantly",2
+53,It arrived on Tuesday,3
+54,"Great value, highly recommend",4
+55,Absolutely fantastic quality,5
+56,Received the item,6
+57,It arrived on Tuesday,0
+58,Excellent service!,1
+59,Standard packaging,2
+60,Excellent service!,3
+61,Very disappointed,4
+62,Poor service and late delivery,5
+63,Received the item,6
+64,Absolutely fantastic quality,0
+65,Absolutely fantastic quality,1
+66,Absolutely fantastic quality,2
+67,"Awful experience, would not recommend",3
+68,Excellent service!,4
+69,"Awful experience, would not recommend",5
+70,Standard packaging,6
+71,Absolutely fantastic quality,0
+72,Standard packaging,1
+73,Very disappointed,2
+74,I love this so much,3
+75,Received the item,4
+76,Received the item,5
+77,It arrived on Tuesday,6
+78,Received the item,0
+79,Absolutely fantastic quality,1
+80,Absolutely fantastic quality,2
+81,The box was blue,3
+82,"Great value, highly recommend",4
+83,"Terrible quality, broke instantly",5
+84,I love this so much,6
+85,"Awful experience, would not recommend",0
+86,"Terrible quality, broke instantly",1
+87,It arrived on Tuesday,2
+88,Absolutely fantastic quality,3
+89,Poor service and late delivery,4
+90,"Great value, highly recommend",5
+91,Standard packaging,6
+92,It arrived on Tuesday,0
+93,Excellent service!,1
+94,Received the item,2
+95,Standard packaging,3
+96,Absolutely fantastic quality,4
+97,"Great value, highly recommend",5
+98,Very disappointed,6
+99,The box was blue,0
+100,"Terrible quality, broke instantly",1
+101,"Great value, highly recommend",2
+102,I love this so much,3
+103,Very disappointed,4
+104,"Terrible quality, broke instantly",5
+105,Very disappointed,6
+106,Very disappointed,0
+107,"Great value, highly recommend",1
+108,"Great value, highly recommend",2
+109,"Awful experience, would not recommend",3
+110,"Awful experience, would not recommend",4
+111,Excellent service!,5
+112,"Awful experience, would not recommend",6
+113,Excellent service!,0
+114,It arrived on Tuesday,1
+115,"Great value, highly recommend",2
+116,Standard packaging,3
+117,"Great value, highly recommend",4
+118,Standard packaging,5
+119,It arrived on Tuesday,6
+120,I love this so much,0
+121,Excellent service!,1
+122,"Great value, highly recommend",2
+123,Excellent service!,3
+124,"Terrible quality, broke instantly",4
+125,Standard packaging,5
+126,"Terrible quality, broke instantly",6
+127,"Terrible quality, broke instantly",0
+128,The box was blue,1
+129,The box was blue,2
+130,Standard packaging,3
+131,Excellent service!,4
+132,Received the item,5
+133,"Terrible quality, broke instantly",6
+134,"Awful experience, would not recommend",0
+135,Absolutely fantastic quality,1
+136,Absolutely fantastic quality,2
+137,Poor service and late delivery,3
+138,"Awful experience, would not recommend",4
+139,Poor service and late delivery,5
+140,Very disappointed,6
+141,Absolutely fantastic quality,0
+142,I love this so much,1
+143,"Terrible quality, broke instantly",2
+144,"Awful experience, would not recommend",3
+145,The box was blue,4
+146,I love this so much,5
+147,The box was blue,6
+148,The box was blue,0
+149,Very disappointed,1
+150,Received the item,2
+151,I love this so much,3
+152,Very disappointed,4
+153,Received the item,5
+154,"Awful experience, would not recommend",6
+155,"Awful experience, would not recommend",0
+156,"Terrible quality, broke instantly",1
+157,The box was blue,2
+158,"Terrible quality, broke instantly",3
+159,Absolutely fantastic quality,4
+160,Excellent service!,5
+161,"Terrible quality, broke instantly",6
+162,"Terrible quality, broke instantly",0
+163,Received the item,1
+164,I love this so much,2
+165,Absolutely fantastic quality,3
+166,It arrived on Tuesday,4
+167,Excellent service!,5
+168,"Terrible quality, broke instantly",6
+169,Excellent service!,0
+170,The box was blue,1
+171,Very disappointed,2
+172,Received the item,3
+173,"Awful experience, would not recommend",4
+174,Very disappointed,5
+175,"Awful experience, would not recommend",6
+176,The box was blue,0
+177,It arrived on Tuesday,1
+178,Received the item,2
+179,It arrived on Tuesday,3
+180,"Awful experience, would not recommend",4
+181,It arrived on Tuesday,5
+182,"Great value, highly recommend",6
+183,Absolutely fantastic quality,0
+184,Very disappointed,1
+185,"Great value, highly recommend",2
+186,Excellent service!,3
+187,I love this so much,4
+188,Received the item,5
+189,Absolutely fantastic quality,6
+190,Excellent service!,0
+191,Poor service and late delivery,1
+192,Received the item,2
+193,"Great value, highly recommend",3
+194,It arrived on Tuesday,4
+195,Very disappointed,5
+196,"Great value, highly recommend",6
+197,Poor service and late delivery,0
+198,It arrived on Tuesday,1
+199,Standard packaging,2
+200,Very disappointed,3
+201,"Terrible quality, broke instantly",4
+202,Absolutely fantastic quality,5
+203,I love this so much,6
+204,Standard packaging,0
+205,Absolutely fantastic quality,1
+206,The box was blue,2
+207,Standard packaging,3
+208,The box was blue,4
+209,Poor service and late delivery,5
+210,Very disappointed,6
+211,"Great value, highly recommend",0
+212,Absolutely fantastic quality,1
+213,It arrived on Tuesday,2
+214,It arrived on Tuesday,3
+215,"Terrible quality, broke instantly",4
+216,It arrived on Tuesday,5
+217,"Awful experience, would not recommend",6
+218,"Great value, highly recommend",0
+219,Excellent service!,1
+220,"Great value, highly recommend",2
+221,Poor service and late delivery,3
+222,The box was blue,4
+223,Absolutely fantastic quality,5
+224,Absolutely fantastic quality,6
+225,It arrived on Tuesday,0
+226,Absolutely fantastic quality,1
+227,Standard packaging,2
+228,"Awful experience, would not recommend",3
+229,Received the item,4
+230,"Awful experience, would not recommend",5
+231,Standard packaging,6
+232,"Great value, highly recommend",0
+233,I love this so much,1
+234,Absolutely fantastic quality,2
+235,Poor service and late delivery,3
+236,Excellent service!,4
+237,Excellent service!,5
+238,Poor service and late delivery,6
+239,Poor service and late delivery,0
+240,Very disappointed,1
+241,"Awful experience, would not recommend",2
+242,"Great value, highly recommend",3
+243,Absolutely fantastic quality,4
+244,Standard packaging,5
+245,Absolutely fantastic quality,6
+246,I love this so much,0
+247,Very disappointed,1
+248,The box was blue,2
+249,I love this so much,3
+250,Poor service and late delivery,4
+251,Very disappointed,5
+252,"Awful experience, would not recommend",6
+253,Very disappointed,0
+254,Excellent service!,1
+255,Absolutely fantastic quality,2
+256,Received the item,3
+257,"Great value, highly recommend",4
+258,Standard packaging,5
+259,Very disappointed,6
+260,I love this so much,0
+261,The box was blue,1
+262,The box was blue,2
+263,"Great value, highly recommend",3
+264,It arrived on Tuesday,4
+265,Standard packaging,5
+266,"Awful experience, would not recommend",6
+267,I love this so much,0
+268,"Great value, highly recommend",1
+269,Absolutely fantastic quality,2
+270,It arrived on Tuesday,3
+271,It arrived on Tuesday,4
+272,Standard packaging,5
+273,"Awful experience, would not recommend",6
+274,Absolutely fantastic quality,0
+275,Poor service and late delivery,1
+276,Received the item,2
+277,"Great value, highly recommend",3
+278,"Awful experience, would not recommend",4
+279,Excellent service!,5
+280,"Awful experience, would not recommend",6
+281,"Terrible quality, broke instantly",0
+282,"Awful experience, would not recommend",1
+283,I love this so much,2
+284,Absolutely fantastic quality,3
+285,Very disappointed,4
+286,Excellent service!,5
+287,It arrived on Tuesday,6
+288,"Terrible quality, broke instantly",0
+289,"Awful experience, would not recommend",1
+290,Standard packaging,2
+291,Excellent service!,3
+292,I love this so much,4
+293,"Terrible quality, broke instantly",5
+294,Poor service and late delivery,6
+295,It arrived on Tuesday,0
+296,The box was blue,1
+297,"Awful experience, would not recommend",2
+298,Excellent service!,3
+299,Received the item,4
+300,Excellent service!,5
+301,Very disappointed,6
+302,Absolutely fantastic quality,0
+303,Absolutely fantastic quality,1
+304,Standard packaging,2
+305,Very disappointed,3
+306,"Awful experience, would not recommend",4
+307,Excellent service!,5
+308,Excellent service!,6
+309,It arrived on Tuesday,0
+310,"Awful experience, would not recommend",1
+311,Poor service and late delivery,2
+312,Standard packaging,3
+313,Received the item,4
+314,It arrived on Tuesday,5
+315,"Awful experience, would not recommend",6
+316,It arrived on Tuesday,0
+317,It arrived on Tuesday,1
+318,Received the item,2
+319,Excellent service!,3
+320,Received the item,4
+321,Absolutely fantastic quality,5
+322,I love this so much,6
+323,"Great value, highly recommend",0
+324,The box was blue,1
+325,Very disappointed,2
+326,"Great value, highly recommend",3
+327,Excellent service!,4
+328,Received the item,5
+329,Absolutely fantastic quality,6
+330,Excellent service!,0
+331,Poor service and late delivery,1
+332,Standard packaging,2
+333,"Awful experience, would not recommend",3
+334,Standard packaging,4
+335,Standard packaging,5
+336,"Great value, highly recommend",6
+337,"Great value, highly recommend",0
+338,Received the item,1
+339,Absolutely fantastic quality,2
+340,"Terrible quality, broke instantly",3
+341,Very disappointed,4
+342,Standard packaging,5
+343,Excellent service!,6
+344,It arrived on Tuesday,0
+345,Received the item,1
+346,It arrived on Tuesday,2
+347,It arrived on Tuesday,3
+348,"Great value, highly recommend",4
+349,"Awful experience, would not recommend",5
+350,"Great value, highly recommend",6
+351,Standard packaging,0
+352,"Great value, highly recommend",1
+353,It arrived on Tuesday,2
+354,Poor service and late delivery,3
+355,"Awful experience, would not recommend",4
+356,"Terrible quality, broke instantly",5
+357,Excellent service!,6
+358,The box was blue,0
+359,Very disappointed,1
+360,It arrived on Tuesday,2
+361,"Awful experience, would not recommend",3
+362,Excellent service!,4
+363,Standard packaging,5
+364,Standard packaging,6
+365,Standard packaging,0
+366,The box was blue,1
+367,Received the item,2
+368,Poor service and late delivery,3
+369,Absolutely fantastic quality,4
+370,"Awful experience, would not recommend",5
+371,Absolutely fantastic quality,6
+372,Poor service and late delivery,0
+373,"Awful experience, would not recommend",1
+374,Standard packaging,2
+375,Received the item,3
+376,Absolutely fantastic quality,4
+377,I love this so much,5
+378,"Great value, highly recommend",6
+379,"Terrible quality, broke instantly",0
+380,The box was blue,1
+381,Standard packaging,2
+382,"Awful experience, would not recommend",3
+383,Excellent service!,4
+384,Received the item,5
+385,"Awful experience, would not recommend",6
+386,Standard packaging,0
+387,It arrived on Tuesday,1
+388,Standard packaging,2
+389,Very disappointed,3
+390,Absolutely fantastic quality,4
+391,"Great value, highly recommend",5
+392,Excellent service!,6
+393,Received the item,0
+394,Standard packaging,1
+395,Absolutely fantastic quality,2
+396,Excellent service!,3
+397,Poor service and late delivery,4
+398,Poor service and late delivery,5
+399,I love this so much,6
+400,Received the item,0
+401,The box was blue,1
+402,Absolutely fantastic quality,2
+403,Absolutely fantastic quality,3
+404,"Terrible quality, broke instantly",4
+405,Poor service and late delivery,5
+406,I love this so much,6
+407,Absolutely fantastic quality,0
+408,I love this so much,1
+409,Very disappointed,2
+410,"Great value, highly recommend",3
+411,Poor service and late delivery,4
+412,"Terrible quality, broke instantly",5
+413,I love this so much,6
+414,The box was blue,0
+415,Standard packaging,1
+416,I love this so much,2
+417,"Great value, highly recommend",3
+418,Standard packaging,4
+419,The box was blue,5
+420,The box was blue,6
+421,"Awful experience, would not recommend",0
+422,Excellent service!,1
+423,Very disappointed,2
+424,I love this so much,3
+425,Excellent service!,4
+426,Poor service and late delivery,5
+427,"Great value, highly recommend",6
+428,Excellent service!,0
+429,The box was blue,1
+430,It arrived on Tuesday,2
+431,Very disappointed,3
+432,Poor service and late delivery,4
+433,Received the item,5
+434,I love this so much,6
+435,It arrived on Tuesday,0
+436,Excellent service!,1
+437,"Great value, highly recommend",2
+438,Absolutely fantastic quality,3
+439,The box was blue,4
+440,Standard packaging,5
+441,Excellent service!,6
+442,"Awful experience, would not recommend",0
+443,Excellent service!,1
+444,It arrived on Tuesday,2
+445,"Awful experience, would not recommend",3
+446,It arrived on Tuesday,4
+447,I love this so much,5
+448,"Awful experience, would not recommend",6
+449,It arrived on Tuesday,0
+450,"Terrible quality, broke instantly",1
+451,Excellent service!,2
+452,Standard packaging,3
+453,"Terrible quality, broke instantly",4
+454,Absolutely fantastic quality,5
+455,The box was blue,6
+456,Excellent service!,0
+457,"Great value, highly recommend",1
+458,Poor service and late delivery,2
+459,Standard packaging,3
+460,The box was blue,4
+461,I love this so much,5
+462,"Great value, highly recommend",6
+463,"Great value, highly recommend",0
+464,It arrived on Tuesday,1
+465,"Awful experience, would not recommend",2
+466,Standard packaging,3
+467,Received the item,4
+468,I love this so much,5
+469,Poor service and late delivery,6
+470,"Great value, highly recommend",0
+471,Poor service and late delivery,1
+472,"Great value, highly recommend",2
+473,Received the item,3
+474,Excellent service!,4
+475,Excellent service!,5
+476,Excellent service!,6
+477,Excellent service!,0
+478,I love this so much,1
+479,The box was blue,2
+480,"Terrible quality, broke instantly",3
+481,Very disappointed,4
+482,Standard packaging,5
+483,It arrived on Tuesday,6
+484,Standard packaging,0
+485,Standard packaging,1
+486,I love this so much,2
+487,Absolutely fantastic quality,3
+488,Excellent service!,4
+489,Poor service and late delivery,5
+490,Standard packaging,6
+491,Received the item,0
+492,Excellent service!,1
+493,I love this so much,2
+494,Very disappointed,3
+495,"Awful experience, would not recommend",4
+496,"Awful experience, would not recommend",5
+497,Standard packaging,6
+498,Standard packaging,0
+499,"Terrible quality, broke instantly",1
+500,"Awful experience, would not recommend",2
+501,The box was blue,3
+502,Excellent service!,4
+503,I love this so much,5
+504,Standard packaging,6
+505,Excellent service!,0
+506,I love this so much,1
+507,It arrived on Tuesday,2
+508,I love this so much,3
+509,Received the item,4
+510,Poor service and late delivery,5
+511,Absolutely fantastic quality,6
+512,Excellent service!,0
+513,The box was blue,1
+514,"Terrible quality, broke instantly",2
+515,Standard packaging,3
+516,Standard packaging,4
+517,Standard packaging,5
+518,Very disappointed,6
+519,Excellent service!,0
+520,Absolutely fantastic quality,1
+521,Absolutely fantastic quality,2
+522,"Great value, highly recommend",3
+523,"Awful experience, would not recommend",4
+524,It arrived on Tuesday,5
+525,Standard packaging,6
+526,Absolutely fantastic quality,0
+527,"Terrible quality, broke instantly",1
+528,Poor service and late delivery,2
+529,I love this so much,3
+530,Excellent service!,4
+531,Excellent service!,5
+532,It arrived on Tuesday,6
+533,The box was blue,0
+534,I love this so much,1
+535,Absolutely fantastic quality,2
+536,"Great value, highly recommend",3
+537,"Awful experience, would not recommend",4
+538,Standard packaging,5
+539,"Terrible quality, broke instantly",6
+540,"Great value, highly recommend",0
+541,I love this so much,1
+542,Standard packaging,2
+543,I love this so much,3
+544,"Great value, highly recommend",4
+545,Absolutely fantastic quality,5
+546,"Great value, highly recommend",6
+547,Standard packaging,0
+548,"Great value, highly recommend",1
+549,Absolutely fantastic quality,2
+550,Excellent service!,3
+551,Poor service and late delivery,4
+552,Excellent service!,5
+553,Excellent service!,6
+554,"Awful experience, would not recommend",0
+555,"Terrible quality, broke instantly",1
+556,"Awful experience, would not recommend",2
+557,Standard packaging,3
+558,Standard packaging,4
+559,Very disappointed,5
+560,It arrived on Tuesday,6
+561,Standard packaging,0
+562,Received the item,1
+563,"Great value, highly recommend",2
+564,"Awful experience, would not recommend",3
+565,Received the item,4
+566,I love this so much,5
+567,The box was blue,6
+568,It arrived on Tuesday,0
+569,Excellent service!,1
+570,Very disappointed,2
+571,The box was blue,3
+572,I love this so much,4
+573,Absolutely fantastic quality,5
+574,Poor service and late delivery,6
+575,"Great value, highly recommend",0
+576,"Awful experience, would not recommend",1
+577,"Great value, highly recommend",2
+578,The box was blue,3
+579,"Awful experience, would not recommend",4
+580,I love this so much,5
+581,Received the item,6
+582,"Great value, highly recommend",0
+583,I love this so much,1
+584,Standard packaging,2
+585,Excellent service!,3
+586,Absolutely fantastic quality,4
+587,"Awful experience, would not recommend",5
+588,Poor service and late delivery,6
+589,"Awful experience, would not recommend",0
+590,The box was blue,1
+591,"Awful experience, would not recommend",2
+592,Excellent service!,3
+593,"Awful experience, would not recommend",4
+594,Standard packaging,5
+595,Absolutely fantastic quality,6
+596,Absolutely fantastic quality,0
+597,I love this so much,1
+598,Very disappointed,2
+599,Excellent service!,3
+600,Poor service and late delivery,4
+601,Very disappointed,5
+602,Poor service and late delivery,6
+603,The box was blue,0
+604,Received the item,1
+605,Very disappointed,2
+606,Received the item,3
+607,I love this so much,4
+608,Excellent service!,5
+609,The box was blue,6
+610,Received the item,0
+611,Excellent service!,1
+612,It arrived on Tuesday,2
+613,Absolutely fantastic quality,3
+614,Received the item,4
+615,It arrived on Tuesday,5
+616,It arrived on Tuesday,6
+617,Absolutely fantastic quality,0
+618,"Great value, highly recommend",1
+619,"Terrible quality, broke instantly",2
+620,Excellent service!,3
+621,"Awful experience, would not recommend",4
+622,I love this so much,5
+623,"Terrible quality, broke instantly",6
+624,Absolutely fantastic quality,0
+625,Standard packaging,1
+626,Absolutely fantastic quality,2
+627,"Great value, highly recommend",3
+628,Very disappointed,4
+629,"Great value, highly recommend",5
+630,Very disappointed,6
+631,The box was blue,0
+632,Received the item,1
+633,"Great value, highly recommend",2
+634,"Awful experience, would not recommend",3
+635,Standard packaging,4
+636,Absolutely fantastic quality,5
+637,Excellent service!,6
+638,"Great value, highly recommend",0
+639,Very disappointed,1
+640,The box was blue,2
+641,It arrived on Tuesday,3
+642,"Terrible quality, broke instantly",4
+643,Very disappointed,5
+644,It arrived on Tuesday,6
+645,Received the item,0
+646,Very disappointed,1
+647,Received the item,2
+648,The box was blue,3
+649,Standard packaging,4
+650,Excellent service!,5
+651,Absolutely fantastic quality,6
+652,"Terrible quality, broke instantly",0
+653,Standard packaging,1
+654,Standard packaging,2
+655,"Terrible quality, broke instantly",3
+656,"Terrible quality, broke instantly",4
+657,Absolutely fantastic quality,5
+658,Received the item,6
+659,Standard packaging,0
+660,Absolutely fantastic quality,1
+661,The box was blue,2
+662,"Terrible quality, broke instantly",3
+663,I love this so much,4
+664,"Great value, highly recommend",5
+665,It arrived on Tuesday,6
+666,Very disappointed,0
+667,"Awful experience, would not recommend",1
+668,Standard packaging,2
+669,"Awful experience, would not recommend",3
+670,"Great value, highly recommend",4
+671,Poor service and late delivery,5
+672,Absolutely fantastic quality,6
+673,Absolutely fantastic quality,0
+674,"Awful experience, would not recommend",1
+675,It arrived on Tuesday,2
+676,Absolutely fantastic quality,3
+677,Very disappointed,4
+678,Standard packaging,5
+679,I love this so much,6
+680,Very disappointed,0
+681,Poor service and late delivery,1
+682,Poor service and late delivery,2
+683,Absolutely fantastic quality,3
+684,I love this so much,4
+685,I love this so much,5
+686,The box was blue,6
+687,Absolutely fantastic quality,0
+688,I love this so much,1
+689,Absolutely fantastic quality,2
+690,Excellent service!,3
+691,Excellent service!,4
+692,"Awful experience, would not recommend",5
+693,Very disappointed,6
+694,"Great value, highly recommend",0
+695,"Terrible quality, broke instantly",1
+696,Poor service and late delivery,2
+697,"Terrible quality, broke instantly",3
+698,Received the item,4
+699,Poor service and late delivery,5
+700,Excellent service!,6
+701,Absolutely fantastic quality,0
+702,"Great value, highly recommend",1
+703,I love this so much,2
+704,"Great value, highly recommend",3
+705,Very disappointed,4
+706,"Terrible quality, broke instantly",5
+707,Received the item,6
+708,Very disappointed,0
+709,The box was blue,1
+710,I love this so much,2
+711,"Great value, highly recommend",3
+712,Absolutely fantastic quality,4
+713,"Great value, highly recommend",5
+714,Excellent service!,6
+715,The box was blue,0
+716,Received the item,1
+717,It arrived on Tuesday,2
+718,Excellent service!,3
+719,"Awful experience, would not recommend",4
+720,Very disappointed,5
+721,Excellent service!,6
+722,"Terrible quality, broke instantly",0
+723,"Awful experience, would not recommend",1
+724,I love this so much,2
+725,I love this so much,3
+726,Absolutely fantastic quality,4
+727,The box was blue,5
+728,"Terrible quality, broke instantly",6
+729,I love this so much,0
+730,I love this so much,1
+731,"Terrible quality, broke instantly",2
+732,"Terrible quality, broke instantly",3
+733,"Great value, highly recommend",4
+734,I love this so much,5
+735,Poor service and late delivery,6
+736,Absolutely fantastic quality,0
+737,Absolutely fantastic quality,1
+738,I love this so much,2
+739,I love this so much,3
+740,Very disappointed,4
+741,It arrived on Tuesday,5
+742,I love this so much,6
+743,"Awful experience, would not recommend",0
+744,Standard packaging,1
+745,Received the item,2
+746,It arrived on Tuesday,3
+747,Standard packaging,4
+748,It arrived on Tuesday,5
+749,Very disappointed,6
+750,Received the item,0
+751,It arrived on Tuesday,1
+752,It arrived on Tuesday,2
+753,It arrived on Tuesday,3
+754,Received the item,4
+755,"Terrible quality, broke instantly",5
+756,"Awful experience, would not recommend",6
+757,"Terrible quality, broke instantly",0
+758,Very disappointed,1
+759,Excellent service!,2
+760,Absolutely fantastic quality,3
+761,It arrived on Tuesday,4
+762,"Great value, highly recommend",5
+763,It arrived on Tuesday,6
+764,The box was blue,0
+765,Standard packaging,1
+766,Very disappointed,2
+767,"Awful experience, would not recommend",3
+768,The box was blue,4
+769,"Awful experience, would not recommend",5
+770,The box was blue,6
+771,I love this so much,0
+772,It arrived on Tuesday,1
+773,Very disappointed,2
+774,It arrived on Tuesday,3
+775,Received the item,4
+776,"Terrible quality, broke instantly",5
+777,It arrived on Tuesday,6
+778,The box was blue,0
+779,Standard packaging,1
+780,The box was blue,2
+781,The box was blue,3
+782,The box was blue,4
+783,"Terrible quality, broke instantly",5
+784,Standard packaging,6
+785,"Awful experience, would not recommend",0
+786,Standard packaging,1
+787,Excellent service!,2
+788,Standard packaging,3
+789,"Awful experience, would not recommend",4
+790,"Great value, highly recommend",5
+791,The box was blue,6
+792,"Awful experience, would not recommend",0
+793,Standard packaging,1
+794,"Awful experience, would not recommend",2
+795,"Awful experience, would not recommend",3
+796,"Great value, highly recommend",4
+797,Very disappointed,5
+798,Absolutely fantastic quality,6
+799,The box was blue,0
+800,It arrived on Tuesday,1
+801,I love this so much,2
+802,Excellent service!,3
+803,Absolutely fantastic quality,4
+804,Standard packaging,5
+805,Standard packaging,6
+806,I love this so much,0
+807,"Terrible quality, broke instantly",1
+808,The box was blue,2
+809,Received the item,3
+810,I love this so much,4
+811,Received the item,5
+812,"Awful experience, would not recommend",6
+813,Very disappointed,0
+814,It arrived on Tuesday,1
+815,"Great value, highly recommend",2
+816,Poor service and late delivery,3
+817,Absolutely fantastic quality,4
+818,Received the item,5
+819,Absolutely fantastic quality,6
+820,"Awful experience, would not recommend",0
+821,"Terrible quality, broke instantly",1
+822,Received the item,2
+823,Standard packaging,3
+824,"Terrible quality, broke instantly",4
+825,The box was blue,5
+826,The box was blue,6
+827,Received the item,0
+828,Received the item,1
+829,Excellent service!,2
+830,"Awful experience, would not recommend",3
+831,Very disappointed,4
+832,Excellent service!,5
+833,It arrived on Tuesday,6
+834,"Great value, highly recommend",0
+835,"Awful experience, would not recommend",1
+836,Absolutely fantastic quality,2
+837,Very disappointed,3
+838,Excellent service!,4
+839,"Awful experience, would not recommend",5
+840,Poor service and late delivery,6
+841,"Terrible quality, broke instantly",0
+842,Very disappointed,1
+843,Very disappointed,2
+844,Received the item,3
+845,Absolutely fantastic quality,4
+846,It arrived on Tuesday,5
+847,Very disappointed,6
+848,"Terrible quality, broke instantly",0
+849,Standard packaging,1
+850,Received the item,2
+851,I love this so much,3
+852,Excellent service!,4
+853,Standard packaging,5
+854,Very disappointed,6
+855,Absolutely fantastic quality,0
+856,Received the item,1
+857,"Awful experience, would not recommend",2
+858,Received the item,3
+859,Absolutely fantastic quality,4
+860,I love this so much,5
+861,"Awful experience, would not recommend",6
+862,The box was blue,0
+863,"Great value, highly recommend",1
+864,Poor service and late delivery,2
+865,Standard packaging,3
+866,"Awful experience, would not recommend",4
+867,Standard packaging,5
+868,"Great value, highly recommend",6
+869,Poor service and late delivery,0
+870,Very disappointed,1
+871,The box was blue,2
+872,It arrived on Tuesday,3
+873,Very disappointed,4
+874,The box was blue,5
+875,Very disappointed,6
+876,Received the item,0
+877,Received the item,1
+878,"Terrible quality, broke instantly",2
+879,Very disappointed,3
+880,"Great value, highly recommend",4
+881,It arrived on Tuesday,5
+882,"Great value, highly recommend",6
+883,"Great value, highly recommend",0
+884,"Terrible quality, broke instantly",1
+885,"Terrible quality, broke instantly",2
+886,I love this so much,3
+887,Very disappointed,4
+888,It arrived on Tuesday,5
+889,"Awful experience, would not recommend",6
+890,Absolutely fantastic quality,0
+891,Standard packaging,1
+892,Absolutely fantastic quality,2
+893,The box was blue,3
+894,"Terrible quality, broke instantly",4
+895,Very disappointed,5
+896,Excellent service!,6
+897,"Awful experience, would not recommend",0
+898,"Terrible quality, broke instantly",1
+899,Poor service and late delivery,2
+900,"Terrible quality, broke instantly",3
+901,"Terrible quality, broke instantly",4
+902,Received the item,5
+903,Absolutely fantastic quality,6
+904,Received the item,0
+905,"Terrible quality, broke instantly",1
+906,Received the item,2
+907,Excellent service!,3
+908,Excellent service!,4
+909,I love this so much,5
+910,"Great value, highly recommend",6
+911,Received the item,0
+912,Very disappointed,1
+913,Standard packaging,2
+914,Received the item,3
+915,"Terrible quality, broke instantly",4
+916,"Great value, highly recommend",5
+917,"Terrible quality, broke instantly",6
+918,I love this so much,0
+919,Very disappointed,1
+920,Excellent service!,2
+921,The box was blue,3
+922,Absolutely fantastic quality,4
+923,Poor service and late delivery,5
+924,"Awful experience, would not recommend",6
+925,It arrived on Tuesday,0
+926,Very disappointed,1
+927,Received the item,2
+928,"Awful experience, would not recommend",3
+929,Received the item,4
+930,Received the item,5
+931,It arrived on Tuesday,6
+932,Standard packaging,0
+933,Received the item,1
+934,Standard packaging,2
+935,Very disappointed,3
+936,Very disappointed,4
+937,Excellent service!,5
+938,"Great value, highly recommend",6
+939,"Great value, highly recommend",0
+940,Very disappointed,1
+941,I love this so much,2
+942,Excellent service!,3
+943,Poor service and late delivery,4
+944,"Terrible quality, broke instantly",5
+945,Standard packaging,6
+946,I love this so much,0
+947,Absolutely fantastic quality,1
+948,It arrived on Tuesday,2
+949,Poor service and late delivery,3
+950,"Awful experience, would not recommend",4
+951,"Terrible quality, broke instantly",5
+952,I love this so much,6
+953,Poor service and late delivery,0
+954,"Awful experience, would not recommend",1
+955,Absolutely fantastic quality,2
+956,Excellent service!,3
+957,I love this so much,4
+958,The box was blue,5
+959,Standard packaging,6
+960,The box was blue,0
+961,It arrived on Tuesday,1
+962,It arrived on Tuesday,2
+963,It arrived on Tuesday,3
+964,It arrived on Tuesday,4
+965,Excellent service!,5
+966,Poor service and late delivery,6
+967,It arrived on Tuesday,0
+968,Excellent service!,1
+969,"Awful experience, would not recommend",2
+970,Received the item,3
+971,"Terrible quality, broke instantly",4
+972,Excellent service!,5
+973,Absolutely fantastic quality,6
+974,"Terrible quality, broke instantly",0
+975,It arrived on Tuesday,1
+976,I love this so much,2
+977,Absolutely fantastic quality,3
+978,Absolutely fantastic quality,4
+979,It arrived on Tuesday,5
+980,The box was blue,6
+981,The box was blue,0
+982,"Great value, highly recommend",1
+983,"Awful experience, would not recommend",2
+984,"Terrible quality, broke instantly",3
+985,Received the item,4
+986,Standard packaging,5
+987,I love this so much,6
+988,I love this so much,0
+989,I love this so much,1
+990,Standard packaging,2
+991,The box was blue,3
+992,It arrived on Tuesday,4
+993,Standard packaging,5
+994,Poor service and late delivery,6
+995,The box was blue,0
+996,I love this so much,1
+997,The box was blue,2
+998,Poor service and late delivery,3
+999,Received the item,4
+1000,Standard packaging,5
+1001,Very disappointed,6
+1002,Standard packaging,0
+1003,"Great value, highly recommend",1
+1004,"Terrible quality, broke instantly",2
+1005,"Great value, highly recommend",3
+1006,Poor service and late delivery,4
+1007,Excellent service!,5
+1008,Received the item,6
+1009,"Awful experience, would not recommend",0
+1010,Standard packaging,1
+1011,"Terrible quality, broke instantly",2
+1012,Standard packaging,3
+1013,Received the item,4
+1014,I love this so much,5
+1015,The box was blue,6
+1016,"Awful experience, would not recommend",0
+1017,Received the item,1
+1018,It arrived on Tuesday,2
+1019,Poor service and late delivery,3
+1020,The box was blue,4
+1021,"Awful experience, would not recommend",5
+1022,It arrived on Tuesday,6
+1023,Poor service and late delivery,0
+1024,The box was blue,1
+1025,It arrived on Tuesday,2
+1026,Received the item,3
+1027,"Terrible quality, broke instantly",4
+1028,Very disappointed,5
+1029,Absolutely fantastic quality,6
+1030,Standard packaging,0
+1031,Very disappointed,1
+1032,The box was blue,2
+1033,Absolutely fantastic quality,3
+1034,I love this so much,4
+1035,"Great value, highly recommend",5
+1036,Standard packaging,6
+1037,The box was blue,0
+1038,I love this so much,1
+1039,Standard packaging,2
+1040,"Great value, highly recommend",3
+1041,Poor service and late delivery,4
+1042,Absolutely fantastic quality,5
+1043,It arrived on Tuesday,6
+1044,Standard packaging,0
+1045,"Terrible quality, broke instantly",1
+1046,I love this so much,2
+1047,Excellent service!,3
+1048,"Awful experience, would not recommend",4
+1049,Standard packaging,5
+1050,It arrived on Tuesday,6
+1051,The box was blue,0
+1052,It arrived on Tuesday,1
+1053,The box was blue,2
+1054,Excellent service!,3
+1055,I love this so much,4
+1056,I love this so much,5
+1057,Very disappointed,6
+1058,Poor service and late delivery,0
+1059,It arrived on Tuesday,1
+1060,Poor service and late delivery,2
+1061,I love this so much,3
+1062,Standard packaging,4
+1063,"Awful experience, would not recommend",5
+1064,"Terrible quality, broke instantly",6
+1065,Poor service and late delivery,0
+1066,Excellent service!,1
+1067,"Great value, highly recommend",2
+1068,Absolutely fantastic quality,3
+1069,I love this so much,4
+1070,Standard packaging,5
+1071,I love this so much,6
+1072,"Great value, highly recommend",0
+1073,Poor service and late delivery,1
+1074,I love this so much,2
+1075,"Great value, highly recommend",3
+1076,Absolutely fantastic quality,4
+1077,Very disappointed,5
+1078,Poor service and late delivery,6
+1079,"Terrible quality, broke instantly",0
+1080,Standard packaging,1
+1081,Standard packaging,2
+1082,It arrived on Tuesday,3
+1083,Received the item,4
+1084,The box was blue,5
+1085,The box was blue,6
+1086,I love this so much,0
+1087,The box was blue,1
+1088,Absolutely fantastic quality,2
+1089,I love this so much,3
+1090,Very disappointed,4
+1091,"Awful experience, would not recommend",5
+1092,It arrived on Tuesday,6
+1093,It arrived on Tuesday,0
+1094,"Terrible quality, broke instantly",1
+1095,Standard packaging,2
+1096,The box was blue,3
+1097,It arrived on Tuesday,4
+1098,Very disappointed,5
+1099,"Great value, highly recommend",6
+1100,I love this so much,0
+1101,Excellent service!,1
+1102,"Awful experience, would not recommend",2
+1103,The box was blue,3
+1104,Received the item,4
+1105,The box was blue,5
+1106,I love this so much,6
+1107,Standard packaging,0
+1108,The box was blue,1
+1109,Received the item,2
+1110,"Great value, highly recommend",3
+1111,Received the item,4
+1112,Absolutely fantastic quality,5
+1113,"Terrible quality, broke instantly",6
+1114,"Awful experience, would not recommend",0
+1115,Poor service and late delivery,1
+1116,It arrived on Tuesday,2
+1117,The box was blue,3
+1118,Received the item,4
+1119,The box was blue,5
+1120,I love this so much,6
+1121,Standard packaging,0
+1122,The box was blue,1
+1123,"Great value, highly recommend",2
+1124,I love this so much,3
+1125,Standard packaging,4
+1126,"Awful experience, would not recommend",5
+1127,It arrived on Tuesday,6
+1128,Very disappointed,0
+1129,"Great value, highly recommend",1
+1130,It arrived on Tuesday,2
+1131,The box was blue,3
+1132,The box was blue,4
+1133,Absolutely fantastic quality,5
+1134,"Awful experience, would not recommend",6
+1135,"Awful experience, would not recommend",0
+1136,I love this so much,1
+1137,Excellent service!,2
+1138,The box was blue,3
+1139,Absolutely fantastic quality,4
+1140,"Awful experience, would not recommend",5
+1141,Very disappointed,6
+1142,I love this so much,0
+1143,Excellent service!,1
+1144,"Terrible quality, broke instantly",2
+1145,Very disappointed,3
+1146,Standard packaging,4
+1147,Poor service and late delivery,5
+1148,I love this so much,6
+1149,Received the item,0
+1150,"Great value, highly recommend",1
+1151,Absolutely fantastic quality,2
+1152,Very disappointed,3
+1153,Absolutely fantastic quality,4
+1154,Very disappointed,5
+1155,"Terrible quality, broke instantly",6
+1156,Received the item,0
+1157,"Terrible quality, broke instantly",1
+1158,"Great value, highly recommend",2
+1159,"Awful experience, would not recommend",3
+1160,Received the item,4
+1161,"Terrible quality, broke instantly",5
+1162,It arrived on Tuesday,6
+1163,Poor service and late delivery,0
+1164,It arrived on Tuesday,1
+1165,"Awful experience, would not recommend",2
+1166,Absolutely fantastic quality,3
+1167,Absolutely fantastic quality,4
+1168,"Awful experience, would not recommend",5
+1169,I love this so much,6
+1170,Standard packaging,0
+1171,"Terrible quality, broke instantly",1
+1172,I love this so much,2
+1173,"Awful experience, would not recommend",3
+1174,It arrived on Tuesday,4
+1175,Poor service and late delivery,5
+1176,"Awful experience, would not recommend",6
+1177,Poor service and late delivery,0
+1178,"Great value, highly recommend",1
+1179,Absolutely fantastic quality,2
+1180,"Great value, highly recommend",3
+1181,Excellent service!,4
+1182,Standard packaging,5
+1183,I love this so much,6
+1184,Excellent service!,0
+1185,Absolutely fantastic quality,1
+1186,Absolutely fantastic quality,2
+1187,Poor service and late delivery,3
+1188,Poor service and late delivery,4
+1189,I love this so much,5
+1190,Poor service and late delivery,6
+1191,Poor service and late delivery,0
+1192,"Terrible quality, broke instantly",1
+1193,It arrived on Tuesday,2
+1194,Standard packaging,3
+1195,The box was blue,4
+1196,Received the item,5
+1197,Very disappointed,6
+1198,It arrived on Tuesday,0
+1199,The box was blue,1
+1200,Very disappointed,2
+1201,Excellent service!,3
+1202,"Terrible quality, broke instantly",4
+1203,It arrived on Tuesday,5
+1204,"Awful experience, would not recommend",6
+1205,"Great value, highly recommend",0
+1206,The box was blue,1
+1207,"Terrible quality, broke instantly",2
+1208,Absolutely fantastic quality,3
+1209,Received the item,4
+1210,It arrived on Tuesday,5
+1211,I love this so much,6
+1212,Very disappointed,0
+1213,Very disappointed,1
+1214,"Terrible quality, broke instantly",2
+1215,"Terrible quality, broke instantly",3
+1216,It arrived on Tuesday,4
+1217,"Terrible quality, broke instantly",5
+1218,The box was blue,6
+1219,"Great value, highly recommend",0
+1220,"Great value, highly recommend",1
+1221,The box was blue,2
+1222,I love this so much,3
+1223,Very disappointed,4
+1224,Excellent service!,5
+1225,"Awful experience, would not recommend",6
+1226,It arrived on Tuesday,0
+1227,"Awful experience, would not recommend",1
+1228,Received the item,2
+1229,Very disappointed,3
+1230,The box was blue,4
+1231,"Terrible quality, broke instantly",5
+1232,Very disappointed,6
+1233,The box was blue,0
+1234,Poor service and late delivery,1
+1235,"Great value, highly recommend",2
+1236,Standard packaging,3
+1237,Poor service and late delivery,4
+1238,Standard packaging,5
+1239,Absolutely fantastic quality,6
+1240,The box was blue,0
+1241,Excellent service!,1
+1242,Poor service and late delivery,2
+1243,"Great value, highly recommend",3
+1244,Absolutely fantastic quality,4
+1245,Standard packaging,5
+1246,Standard packaging,6
+1247,The box was blue,0
+1248,It arrived on Tuesday,1
+1249,Absolutely fantastic quality,2
+1250,"Terrible quality, broke instantly",3
+1251,Very disappointed,4
+1252,It arrived on Tuesday,5
+1253,Poor service and late delivery,6
+1254,Standard packaging,0
+1255,"Terrible quality, broke instantly",1
+1256,"Awful experience, would not recommend",2
+1257,"Awful experience, would not recommend",3
+1258,Standard packaging,4
+1259,Very disappointed,5
+1260,Absolutely fantastic quality,6
+1261,Very disappointed,0
+1262,"Terrible quality, broke instantly",1
+1263,Poor service and late delivery,2
+1264,The box was blue,3
+1265,It arrived on Tuesday,4
+1266,Excellent service!,5
+1267,"Terrible quality, broke instantly",6
+1268,Received the item,0
+1269,"Awful experience, would not recommend",1
+1270,Standard packaging,2
+1271,"Terrible quality, broke instantly",3
+1272,Received the item,4
+1273,Poor service and late delivery,5
+1274,Standard packaging,6
+1275,Standard packaging,0
+1276,Received the item,1
+1277,Very disappointed,2
+1278,Excellent service!,3
+1279,Received the item,4
+1280,The box was blue,5
+1281,Very disappointed,6
+1282,Excellent service!,0
+1283,Poor service and late delivery,1
+1284,"Awful experience, would not recommend",2
+1285,"Great value, highly recommend",3
+1286,The box was blue,4
+1287,The box was blue,5
+1288,It arrived on Tuesday,6
+1289,I love this so much,0
+1290,Received the item,1
+1291,Standard packaging,2
+1292,Poor service and late delivery,3
+1293,Poor service and late delivery,4
+1294,Received the item,5
+1295,It arrived on Tuesday,6
+1296,Very disappointed,0
+1297,It arrived on Tuesday,1
+1298,"Terrible quality, broke instantly",2
+1299,"Awful experience, would not recommend",3
+1300,Excellent service!,4
+1301,Received the item,5
+1302,"Awful experience, would not recommend",6
+1303,Excellent service!,0
+1304,Received the item,1
+1305,Standard packaging,2
+1306,"Terrible quality, broke instantly",3
+1307,"Great value, highly recommend",4
+1308,Standard packaging,5
+1309,"Great value, highly recommend",6
+1310,"Awful experience, would not recommend",0
+1311,"Great value, highly recommend",1
+1312,Very disappointed,2
+1313,Poor service and late delivery,3
+1314,"Awful experience, would not recommend",4
+1315,Very disappointed,5
+1316,"Awful experience, would not recommend",6
+1317,"Awful experience, would not recommend",0
+1318,The box was blue,1
+1319,I love this so much,2
+1320,It arrived on Tuesday,3
+1321,Poor service and late delivery,4
+1322,I love this so much,5
+1323,It arrived on Tuesday,6
+1324,Received the item,0
+1325,I love this so much,1
+1326,"Terrible quality, broke instantly",2
+1327,Absolutely fantastic quality,3
+1328,Standard packaging,4
+1329,"Awful experience, would not recommend",5
+1330,"Awful experience, would not recommend",6
+1331,It arrived on Tuesday,0
+1332,Absolutely fantastic quality,1
+1333,"Terrible quality, broke instantly",2
+1334,I love this so much,3
+1335,Absolutely fantastic quality,4
+1336,Poor service and late delivery,5
+1337,Received the item,6
+1338,I love this so much,0
+1339,Very disappointed,1
+1340,Absolutely fantastic quality,2
+1341,Standard packaging,3
+1342,I love this so much,4
+1343,It arrived on Tuesday,5
+1344,"Terrible quality, broke instantly",6
+1345,The box was blue,0
+1346,Received the item,1
+1347,I love this so much,2
+1348,Excellent service!,3
+1349,"Terrible quality, broke instantly",4
+1350,It arrived on Tuesday,5
+1351,"Awful experience, would not recommend",6
+1352,Absolutely fantastic quality,0
+1353,Absolutely fantastic quality,1
+1354,"Awful experience, would not recommend",2
+1355,It arrived on Tuesday,3
+1356,Standard packaging,4
+1357,Standard packaging,5
+1358,It arrived on Tuesday,6
+1359,Excellent service!,0
+1360,"Awful experience, would not recommend",1
+1361,Standard packaging,2
+1362,Received the item,3
+1363,Absolutely fantastic quality,4
+1364,Absolutely fantastic quality,5
+1365,"Great value, highly recommend",6
+1366,The box was blue,0
+1367,"Great value, highly recommend",1
+1368,Standard packaging,2
+1369,"Great value, highly recommend",3
+1370,Poor service and late delivery,4
+1371,Received the item,5
+1372,"Terrible quality, broke instantly",6
+1373,Excellent service!,0
+1374,The box was blue,1
+1375,The box was blue,2
+1376,Standard packaging,3
+1377,The box was blue,4
+1378,It arrived on Tuesday,5
+1379,It arrived on Tuesday,6
+1380,The box was blue,0
+1381,Absolutely fantastic quality,1
+1382,Absolutely fantastic quality,2
+1383,The box was blue,3
+1384,Poor service and late delivery,4
+1385,The box was blue,5
+1386,"Great value, highly recommend",6
+1387,The box was blue,0
+1388,Poor service and late delivery,1
+1389,The box was blue,2
+1390,Received the item,3
+1391,"Awful experience, would not recommend",4
+1392,Excellent service!,5
+1393,"Awful experience, would not recommend",6
+1394,Very disappointed,0
+1395,Poor service and late delivery,1
+1396,Very disappointed,2
+1397,"Awful experience, would not recommend",3
+1398,The box was blue,4
+1399,I love this so much,5
+1400,"Terrible quality, broke instantly",6
+1401,Very disappointed,0
+1402,Poor service and late delivery,1
+1403,Absolutely fantastic quality,2
+1404,It arrived on Tuesday,3
+1405,It arrived on Tuesday,4
+1406,"Awful experience, would not recommend",5
+1407,"Great value, highly recommend",6
+1408,I love this so much,0
+1409,"Great value, highly recommend",1
+1410,Very disappointed,2
+1411,I love this so much,3
+1412,Very disappointed,4
+1413,Absolutely fantastic quality,5
+1414,The box was blue,6
+1415,Poor service and late delivery,0
+1416,Standard packaging,1
+1417,Received the item,2
+1418,"Awful experience, would not recommend",3
+1419,The box was blue,4
+1420,"Great value, highly recommend",5
+1421,Very disappointed,6
+1422,It arrived on Tuesday,0
+1423,Poor service and late delivery,1
+1424,Excellent service!,2
+1425,It arrived on Tuesday,3
+1426,"Great value, highly recommend",4
+1427,"Great value, highly recommend",5
+1428,"Awful experience, would not recommend",6
+1429,"Terrible quality, broke instantly",0
+1430,It arrived on Tuesday,1
+1431,"Awful experience, would not recommend",2
+1432,The box was blue,3
+1433,The box was blue,4
+1434,It arrived on Tuesday,5
+1435,Very disappointed,6
+1436,"Awful experience, would not recommend",0
+1437,"Awful experience, would not recommend",1
+1438,Poor service and late delivery,2
+1439,Very disappointed,3
+1440,Standard packaging,4
+1441,I love this so much,5
+1442,Very disappointed,6
+1443,I love this so much,0
+1444,I love this so much,1
+1445,"Great value, highly recommend",2
+1446,"Great value, highly recommend",3
+1447,"Terrible quality, broke instantly",4
+1448,Received the item,5
+1449,"Awful experience, would not recommend",6
+1450,It arrived on Tuesday,0
+1451,Received the item,1
+1452,Standard packaging,2
+1453,Poor service and late delivery,3
+1454,"Terrible quality, broke instantly",4
+1455,"Awful experience, would not recommend",5
+1456,The box was blue,6
+1457,The box was blue,0
+1458,"Great value, highly recommend",1
+1459,Absolutely fantastic quality,2
+1460,"Awful experience, would not recommend",3
+1461,Very disappointed,4
+1462,I love this so much,5
+1463,"Great value, highly recommend",6
+1464,Received the item,0
+1465,Absolutely fantastic quality,1
+1466,Very disappointed,2
+1467,Absolutely fantastic quality,3
+1468,Poor service and late delivery,4
+1469,Poor service and late delivery,5
+1470,Absolutely fantastic quality,6
+1471,Excellent service!,0
+1472,"Great value, highly recommend",1
+1473,Very disappointed,2
+1474,Absolutely fantastic quality,3
+1475,"Awful experience, would not recommend",4
+1476,It arrived on Tuesday,5
+1477,Poor service and late delivery,6
+1478,Absolutely fantastic quality,0
+1479,Poor service and late delivery,1
+1480,The box was blue,2
+1481,"Great value, highly recommend",3
+1482,"Great value, highly recommend",4
+1483,The box was blue,5
+1484,I love this so much,6
+1485,Standard packaging,0
+1486,I love this so much,1
+1487,Very disappointed,2
+1488,It arrived on Tuesday,3
+1489,"Great value, highly recommend",4
+1490,Received the item,5
+1491,Very disappointed,6
+1492,The box was blue,0
+1493,"Terrible quality, broke instantly",1
+1494,I love this so much,2
+1495,Received the item,3
+1496,"Great value, highly recommend",4
+1497,Very disappointed,5
+1498,Excellent service!,6
+1499,Received the item,0
+1500,"Great value, highly recommend",1
+1501,"Great value, highly recommend",2
+1502,"Great value, highly recommend",3
+1503,Very disappointed,4
+1504,"Awful experience, would not recommend",5
+1505,Absolutely fantastic quality,6
+1506,"Terrible quality, broke instantly",0
+1507,Excellent service!,1
+1508,"Great value, highly recommend",2
+1509,The box was blue,3
+1510,"Awful experience, would not recommend",4
+1511,"Great value, highly recommend",5
+1512,Very disappointed,6
+1513,The box was blue,0
+1514,Very disappointed,1
+1515,The box was blue,2
+1516,The box was blue,3
+1517,Very disappointed,4
+1518,The box was blue,5
+1519,I love this so much,6
+1520,Excellent service!,0
+1521,Absolutely fantastic quality,1
+1522,Received the item,2
+1523,The box was blue,3
+1524,It arrived on Tuesday,4
+1525,Absolutely fantastic quality,5
+1526,Absolutely fantastic quality,6
+1527,Received the item,0
+1528,I love this so much,1
+1529,Received the item,2
+1530,Absolutely fantastic quality,3
+1531,Very disappointed,4
+1532,I love this so much,5
+1533,Poor service and late delivery,6
+1534,"Great value, highly recommend",0
+1535,I love this so much,1
+1536,Poor service and late delivery,2
+1537,It arrived on Tuesday,3
+1538,It arrived on Tuesday,4
+1539,"Awful experience, would not recommend",5
+1540,"Awful experience, would not recommend",6
+1541,Standard packaging,0
+1542,Excellent service!,1
+1543,Very disappointed,2
+1544,"Awful experience, would not recommend",3
+1545,It arrived on Tuesday,4
+1546,Very disappointed,5
+1547,Poor service and late delivery,6
+1548,The box was blue,0
+1549,It arrived on Tuesday,1
+1550,"Great value, highly recommend",2
+1551,Very disappointed,3
+1552,Poor service and late delivery,4
+1553,Received the item,5
+1554,"Awful experience, would not recommend",6
+1555,Standard packaging,0
+1556,"Terrible quality, broke instantly",1
+1557,Absolutely fantastic quality,2
+1558,Poor service and late delivery,3
+1559,"Terrible quality, broke instantly",4
+1560,"Great value, highly recommend",5
+1561,Poor service and late delivery,6
+1562,The box was blue,0
+1563,Poor service and late delivery,1
+1564,Standard packaging,2
+1565,Absolutely fantastic quality,3
+1566,Absolutely fantastic quality,4
+1567,"Terrible quality, broke instantly",5
+1568,"Great value, highly recommend",6
+1569,"Terrible quality, broke instantly",0
+1570,"Great value, highly recommend",1
+1571,Poor service and late delivery,2
+1572,Excellent service!,3
+1573,I love this so much,4
+1574,"Terrible quality, broke instantly",5
+1575,It arrived on Tuesday,6
+1576,The box was blue,0
+1577,"Terrible quality, broke instantly",1
+1578,"Terrible quality, broke instantly",2
+1579,Received the item,3
+1580,"Awful experience, would not recommend",4
+1581,Excellent service!,5
+1582,Absolutely fantastic quality,6
+1583,It arrived on Tuesday,0
+1584,The box was blue,1
+1585,"Great value, highly recommend",2
+1586,I love this so much,3
+1587,"Awful experience, would not recommend",4
+1588,Standard packaging,5
+1589,Absolutely fantastic quality,6
+1590,It arrived on Tuesday,0
+1591,"Awful experience, would not recommend",1
+1592,"Terrible quality, broke instantly",2
+1593,Very disappointed,3
+1594,"Great value, highly recommend",4
+1595,Very disappointed,5
+1596,"Terrible quality, broke instantly",6
+1597,It arrived on Tuesday,0
+1598,"Great value, highly recommend",1
+1599,Very disappointed,2
+1600,Poor service and late delivery,3
+1601,"Great value, highly recommend",4
+1602,"Great value, highly recommend",5
+1603,Very disappointed,6
+1604,"Terrible quality, broke instantly",0
+1605,Absolutely fantastic quality,1
+1606,Standard packaging,2
+1607,Excellent service!,3
+1608,Excellent service!,4
+1609,I love this so much,5
+1610,It arrived on Tuesday,6
+1611,"Great value, highly recommend",0
+1612,Absolutely fantastic quality,1
+1613,Very disappointed,2
+1614,Poor service and late delivery,3
+1615,"Great value, highly recommend",4
+1616,Very disappointed,5
+1617,It arrived on Tuesday,6
+1618,"Great value, highly recommend",0
+1619,Excellent service!,1
+1620,Poor service and late delivery,2
+1621,I love this so much,3
+1622,Absolutely fantastic quality,4
+1623,Poor service and late delivery,5
+1624,The box was blue,6
+1625,Poor service and late delivery,0
+1626,The box was blue,1
+1627,"Terrible quality, broke instantly",2
+1628,Standard packaging,3
+1629,"Awful experience, would not recommend",4
+1630,The box was blue,5
+1631,"Terrible quality, broke instantly",6
+1632,Absolutely fantastic quality,0
+1633,Received the item,1
+1634,Received the item,2
+1635,Standard packaging,3
+1636,It arrived on Tuesday,4
+1637,Received the item,5
+1638,The box was blue,6
+1639,Absolutely fantastic quality,0
+1640,It arrived on Tuesday,1
+1641,"Awful experience, would not recommend",2
+1642,"Awful experience, would not recommend",3
+1643,Received the item,4
+1644,It arrived on Tuesday,5
+1645,Very disappointed,6
+1646,The box was blue,0
+1647,"Terrible quality, broke instantly",1
+1648,"Terrible quality, broke instantly",2
+1649,Excellent service!,3
+1650,"Terrible quality, broke instantly",4
+1651,Standard packaging,5
+1652,Absolutely fantastic quality,6
+1653,"Terrible quality, broke instantly",0
+1654,Standard packaging,1
+1655,Very disappointed,2
+1656,"Awful experience, would not recommend",3
+1657,Received the item,4
+1658,It arrived on Tuesday,5
+1659,Very disappointed,6
+1660,Very disappointed,0
+1661,Standard packaging,1
+1662,Absolutely fantastic quality,2
+1663,The box was blue,3
+1664,Absolutely fantastic quality,4
+1665,Excellent service!,5
+1666,Received the item,6
+1667,Standard packaging,0
+1668,I love this so much,1
+1669,"Great value, highly recommend",2
+1670,Very disappointed,3
+1671,Standard packaging,4
+1672,Absolutely fantastic quality,5
+1673,"Terrible quality, broke instantly",6
+1674,"Awful experience, would not recommend",0
+1675,Standard packaging,1
+1676,Standard packaging,2
+1677,Poor service and late delivery,3
+1678,"Terrible quality, broke instantly",4
+1679,Standard packaging,5
+1680,"Great value, highly recommend",6
+1681,It arrived on Tuesday,0
+1682,"Great value, highly recommend",1
+1683,I love this so much,2
+1684,I love this so much,3
+1685,Received the item,4
+1686,"Great value, highly recommend",5
+1687,"Terrible quality, broke instantly",6
+1688,Absolutely fantastic quality,0
+1689,"Terrible quality, broke instantly",1
+1690,I love this so much,2
+1691,I love this so much,3
+1692,Very disappointed,4
+1693,"Awful experience, would not recommend",5
+1694,Absolutely fantastic quality,6
+1695,It arrived on Tuesday,0
+1696,Very disappointed,1
+1697,Absolutely fantastic quality,2
+1698,Standard packaging,3
+1699,"Terrible quality, broke instantly",4
+1700,Poor service and late delivery,5
+1701,Standard packaging,6
+1702,I love this so much,0
+1703,It arrived on Tuesday,1
+1704,"Great value, highly recommend",2
+1705,Received the item,3
+1706,Received the item,4
+1707,I love this so much,5
+1708,Standard packaging,6
+1709,Excellent service!,0
+1710,Very disappointed,1
+1711,I love this so much,2
+1712,Absolutely fantastic quality,3
+1713,Absolutely fantastic quality,4
+1714,"Terrible quality, broke instantly",5
+1715,Standard packaging,6
+1716,Standard packaging,0
+1717,"Awful experience, would not recommend",1
+1718,Very disappointed,2
+1719,"Great value, highly recommend",3
+1720,Poor service and late delivery,4
+1721,"Great value, highly recommend",5
+1722,Poor service and late delivery,6
+1723,Very disappointed,0
+1724,Standard packaging,1
+1725,"Great value, highly recommend",2
+1726,Excellent service!,3
+1727,"Great value, highly recommend",4
+1728,Absolutely fantastic quality,5
+1729,It arrived on Tuesday,6
+1730,Absolutely fantastic quality,0
+1731,I love this so much,1
+1732,"Awful experience, would not recommend",2
+1733,"Awful experience, would not recommend",3
+1734,Standard packaging,4
+1735,"Awful experience, would not recommend",5
+1736,Absolutely fantastic quality,6
+1737,"Terrible quality, broke instantly",0
+1738,The box was blue,1
+1739,Received the item,2
+1740,"Great value, highly recommend",3
+1741,Received the item,4
+1742,"Great value, highly recommend",5
+1743,I love this so much,6
+1744,"Terrible quality, broke instantly",0
+1745,Excellent service!,1
+1746,Very disappointed,2
+1747,Absolutely fantastic quality,3
+1748,Poor service and late delivery,4
+1749,Received the item,5
+1750,"Awful experience, would not recommend",6
+1751,"Great value, highly recommend",0
+1752,"Great value, highly recommend",1
+1753,Poor service and late delivery,2
+1754,Absolutely fantastic quality,3
+1755,The box was blue,4
+1756,Received the item,5
+1757,Very disappointed,6
+1758,Received the item,0
+1759,Absolutely fantastic quality,1
+1760,Standard packaging,2
+1761,"Great value, highly recommend",3
+1762,It arrived on Tuesday,4
+1763,It arrived on Tuesday,5
+1764,The box was blue,6
+1765,"Great value, highly recommend",0
+1766,Poor service and late delivery,1
+1767,I love this so much,2
+1768,"Great value, highly recommend",3
+1769,Excellent service!,4
+1770,Excellent service!,5
+1771,"Great value, highly recommend",6
+1772,"Terrible quality, broke instantly",0
+1773,Absolutely fantastic quality,1
+1774,Absolutely fantastic quality,2
+1775,The box was blue,3
+1776,Very disappointed,4
+1777,Absolutely fantastic quality,5
+1778,Received the item,6
+1779,Excellent service!,0
+1780,Received the item,1
+1781,It arrived on Tuesday,2
+1782,"Awful experience, would not recommend",3
+1783,I love this so much,4
+1784,Absolutely fantastic quality,5
+1785,"Awful experience, would not recommend",6
+1786,Poor service and late delivery,0
+1787,"Terrible quality, broke instantly",1
+1788,"Terrible quality, broke instantly",2
+1789,"Great value, highly recommend",3
+1790,I love this so much,4
+1791,Excellent service!,5
+1792,Excellent service!,6
+1793,Absolutely fantastic quality,0
+1794,Absolutely fantastic quality,1
+1795,"Terrible quality, broke instantly",2
+1796,Very disappointed,3
+1797,It arrived on Tuesday,4
+1798,The box was blue,5
+1799,I love this so much,6
+1800,The box was blue,0
+1801,"Great value, highly recommend",1
+1802,It arrived on Tuesday,2
+1803,Absolutely fantastic quality,3
+1804,"Terrible quality, broke instantly",4
+1805,Standard packaging,5
+1806,It arrived on Tuesday,6
+1807,It arrived on Tuesday,0
+1808,Poor service and late delivery,1
+1809,Very disappointed,2
+1810,Very disappointed,3
+1811,Poor service and late delivery,4
+1812,Very disappointed,5
+1813,Received the item,6
+1814,Received the item,0
+1815,The box was blue,1
+1816,Received the item,2
+1817,The box was blue,3
+1818,"Terrible quality, broke instantly",4
+1819,"Great value, highly recommend",5
+1820,Poor service and late delivery,6
+1821,Absolutely fantastic quality,0
+1822,"Terrible quality, broke instantly",1
+1823,I love this so much,2
+1824,"Terrible quality, broke instantly",3
+1825,Standard packaging,4
+1826,Poor service and late delivery,5
+1827,Very disappointed,6
+1828,It arrived on Tuesday,0
+1829,Received the item,1
+1830,Very disappointed,2
+1831,Poor service and late delivery,3
+1832,Excellent service!,4
+1833,It arrived on Tuesday,5
+1834,Standard packaging,6
+1835,Very disappointed,0
+1836,Absolutely fantastic quality,1
+1837,Very disappointed,2
+1838,Received the item,3
+1839,Very disappointed,4
+1840,Poor service and late delivery,5
+1841,"Awful experience, would not recommend",6
+1842,I love this so much,0
+1843,Very disappointed,1
+1844,"Awful experience, would not recommend",2
+1845,"Awful experience, would not recommend",3
+1846,The box was blue,4
+1847,"Awful experience, would not recommend",5
+1848,Excellent service!,6
+1849,I love this so much,0
+1850,Received the item,1
+1851,Received the item,2
+1852,Excellent service!,3
+1853,"Great value, highly recommend",4
+1854,It arrived on Tuesday,5
+1855,Standard packaging,6
+1856,Very disappointed,0
+1857,It arrived on Tuesday,1
+1858,Received the item,2
+1859,Received the item,3
+1860,"Terrible quality, broke instantly",4
+1861,Received the item,5
+1862,"Awful experience, would not recommend",6
+1863,"Awful experience, would not recommend",0
+1864,Absolutely fantastic quality,1
+1865,Received the item,2
+1866,"Awful experience, would not recommend",3
+1867,Very disappointed,4
+1868,Very disappointed,5
+1869,Standard packaging,6
+1870,Absolutely fantastic quality,0
+1871,"Great value, highly recommend",1
+1872,Absolutely fantastic quality,2
+1873,Standard packaging,3
+1874,Standard packaging,4
+1875,"Great value, highly recommend",5
+1876,It arrived on Tuesday,6
+1877,Poor service and late delivery,0
+1878,Absolutely fantastic quality,1
+1879,Excellent service!,2
+1880,Standard packaging,3
+1881,Excellent service!,4
+1882,Standard packaging,5
+1883,"Great value, highly recommend",6
+1884,Received the item,0
+1885,Very disappointed,1
+1886,The box was blue,2
+1887,The box was blue,3
+1888,"Awful experience, would not recommend",4
+1889,Very disappointed,5
+1890,Absolutely fantastic quality,6
+1891,It arrived on Tuesday,0
+1892,Excellent service!,1
+1893,Received the item,2
+1894,Poor service and late delivery,3
+1895,It arrived on Tuesday,4
+1896,Excellent service!,5
+1897,Received the item,6
+1898,Received the item,0
+1899,I love this so much,1
+1900,Received the item,2
+1901,The box was blue,3
+1902,"Terrible quality, broke instantly",4
+1903,"Awful experience, would not recommend",5
+1904,"Awful experience, would not recommend",6
+1905,It arrived on Tuesday,0
+1906,Very disappointed,1
+1907,Very disappointed,2
+1908,Received the item,3
+1909,I love this so much,4
+1910,I love this so much,5
+1911,"Terrible quality, broke instantly",6
+1912,Excellent service!,0
+1913,Absolutely fantastic quality,1
+1914,Poor service and late delivery,2
+1915,Absolutely fantastic quality,3
+1916,Very disappointed,4
+1917,It arrived on Tuesday,5
+1918,Poor service and late delivery,6
+1919,"Awful experience, would not recommend",0
+1920,It arrived on Tuesday,1
+1921,"Awful experience, would not recommend",2
+1922,Standard packaging,3
+1923,I love this so much,4
+1924,"Great value, highly recommend",5
+1925,Very disappointed,6
+1926,"Great value, highly recommend",0
+1927,Standard packaging,1
+1928,Very disappointed,2
+1929,Poor service and late delivery,3
+1930,Poor service and late delivery,4
+1931,"Terrible quality, broke instantly",5
+1932,Standard packaging,6
+1933,Excellent service!,0
+1934,Standard packaging,1
+1935,The box was blue,2
+1936,I love this so much,3
+1937,"Great value, highly recommend",4
+1938,Received the item,5
+1939,"Awful experience, would not recommend",6
+1940,Standard packaging,0
+1941,Excellent service!,1
+1942,"Terrible quality, broke instantly",2
+1943,Very disappointed,3
+1944,I love this so much,4
+1945,Standard packaging,5
+1946,"Great value, highly recommend",6
+1947,Excellent service!,0
+1948,The box was blue,1
+1949,"Awful experience, would not recommend",2
+1950,Poor service and late delivery,3
+1951,Received the item,4
+1952,Absolutely fantastic quality,5
+1953,Absolutely fantastic quality,6
+1954,It arrived on Tuesday,0
+1955,Absolutely fantastic quality,1
+1956,Excellent service!,2
+1957,I love this so much,3
+1958,"Awful experience, would not recommend",4
+1959,The box was blue,5
+1960,Very disappointed,6
+1961,Absolutely fantastic quality,0
+1962,Absolutely fantastic quality,1
+1963,"Terrible quality, broke instantly",2
+1964,It arrived on Tuesday,3
+1965,I love this so much,4
+1966,Excellent service!,5
+1967,"Great value, highly recommend",6
+1968,Poor service and late delivery,0
+1969,Poor service and late delivery,1
+1970,I love this so much,2
+1971,"Awful experience, would not recommend",3
+1972,Absolutely fantastic quality,4
+1973,Standard packaging,5
+1974,"Great value, highly recommend",6
+1975,"Awful experience, would not recommend",0
+1976,Standard packaging,1
+1977,The box was blue,2
+1978,Absolutely fantastic quality,3
+1979,It arrived on Tuesday,4
+1980,Received the item,5
+1981,"Great value, highly recommend",6
+1982,I love this so much,0
+1983,Excellent service!,1
+1984,Absolutely fantastic quality,2
+1985,Standard packaging,3
+1986,Poor service and late delivery,4
+1987,I love this so much,5
+1988,It arrived on Tuesday,6
+1989,"Awful experience, would not recommend",0
+1990,"Terrible quality, broke instantly",1
+1991,Received the item,2
+1992,It arrived on Tuesday,3
+1993,It arrived on Tuesday,4
+1994,Excellent service!,5
+1995,Standard packaging,6
+1996,"Terrible quality, broke instantly",0
+1997,Absolutely fantastic quality,1
+1998,Standard packaging,2
+1999,"Great value, highly recommend",3
+2000,I love this so much,4
+2001,"Great value, highly recommend",5
+2002,Absolutely fantastic quality,6
+2003,Very disappointed,0
+2004,Absolutely fantastic quality,1
+2005,Standard packaging,2
+2006,Received the item,3
+2007,"Great value, highly recommend",4
+2008,Very disappointed,5
+2009,I love this so much,6
+2010,It arrived on Tuesday,0
+2011,Poor service and late delivery,1
+2012,I love this so much,2
+2013,Excellent service!,3
+2014,It arrived on Tuesday,4
+2015,I love this so much,5
+2016,"Terrible quality, broke instantly",6
+2017,The box was blue,0
+2018,Standard packaging,1
+2019,"Great value, highly recommend",2
+2020,"Awful experience, would not recommend",3
+2021,The box was blue,4
+2022,"Terrible quality, broke instantly",5
+2023,It arrived on Tuesday,6
+2024,Poor service and late delivery,0
+2025,The box was blue,1
+2026,It arrived on Tuesday,2
+2027,Absolutely fantastic quality,3
+2028,Absolutely fantastic quality,4
+2029,Standard packaging,5
+2030,"Terrible quality, broke instantly",6
+2031,Received the item,0
+2032,Absolutely fantastic quality,1
+2033,"Terrible quality, broke instantly",2
+2034,Very disappointed,3
+2035,The box was blue,4
+2036,Received the item,5
+2037,"Awful experience, would not recommend",6
+2038,Absolutely fantastic quality,0
+2039,"Awful experience, would not recommend",1
+2040,I love this so much,2
+2041,I love this so much,3
+2042,The box was blue,4
+2043,"Awful experience, would not recommend",5
+2044,Absolutely fantastic quality,6
+2045,"Great value, highly recommend",0
+2046,Excellent service!,1
+2047,It arrived on Tuesday,2
+2048,It arrived on Tuesday,3
+2049,Absolutely fantastic quality,4
+2050,Absolutely fantastic quality,5
+2051,"Terrible quality, broke instantly",6
+2052,I love this so much,0
+2053,Very disappointed,1
+2054,I love this so much,2
+2055,Absolutely fantastic quality,3
+2056,Standard packaging,4
+2057,Excellent service!,5
+2058,"Awful experience, would not recommend",6
+2059,"Great value, highly recommend",0
+2060,Received the item,1
+2061,I love this so much,2
+2062,Absolutely fantastic quality,3
+2063,"Awful experience, would not recommend",4
+2064,"Great value, highly recommend",5
+2065,Absolutely fantastic quality,6
+2066,Absolutely fantastic quality,0
+2067,Very disappointed,1
+2068,"Terrible quality, broke instantly",2
+2069,Excellent service!,3
+2070,Excellent service!,4
+2071,Very disappointed,5
+2072,I love this so much,6
+2073,I love this so much,0
+2074,Received the item,1
+2075,"Great value, highly recommend",2
+2076,"Awful experience, would not recommend",3
+2077,Received the item,4
+2078,"Great value, highly recommend",5
+2079,Very disappointed,6
+2080,Excellent service!,0
+2081,"Awful experience, would not recommend",1
+2082,Received the item,2
+2083,Very disappointed,3
+2084,"Terrible quality, broke instantly",4
+2085,"Great value, highly recommend",5
+2086,Absolutely fantastic quality,6
+2087,Excellent service!,0
+2088,"Awful experience, would not recommend",1
+2089,It arrived on Tuesday,2
+2090,Received the item,3
+2091,Very disappointed,4
+2092,Received the item,5
+2093,Absolutely fantastic quality,6
+2094,Very disappointed,0
+2095,Poor service and late delivery,1
+2096,It arrived on Tuesday,2
+2097,Received the item,3
+2098,"Terrible quality, broke instantly",4
+2099,Excellent service!,5
+2100,Received the item,6
+2101,Very disappointed,0
+2102,The box was blue,1
+2103,The box was blue,2
+2104,"Great value, highly recommend",3
+2105,Received the item,4
+2106,"Terrible quality, broke instantly",5
+2107,Standard packaging,6
+2108,"Great value, highly recommend",0
+2109,Excellent service!,1
+2110,The box was blue,2
+2111,Absolutely fantastic quality,3
+2112,"Terrible quality, broke instantly",4
+2113,The box was blue,5
+2114,Standard packaging,6
+2115,The box was blue,0
+2116,The box was blue,1
+2117,"Great value, highly recommend",2
+2118,Poor service and late delivery,3
+2119,Received the item,4
+2120,The box was blue,5
+2121,Excellent service!,6
+2122,"Terrible quality, broke instantly",0
+2123,Absolutely fantastic quality,1
+2124,Absolutely fantastic quality,2
+2125,Standard packaging,3
+2126,Very disappointed,4
+2127,"Terrible quality, broke instantly",5
+2128,Poor service and late delivery,6
+2129,"Great value, highly recommend",0
+2130,Poor service and late delivery,1
+2131,"Great value, highly recommend",2
+2132,Standard packaging,3
+2133,Standard packaging,4
+2134,Received the item,5
+2135,"Terrible quality, broke instantly",6
+2136,Poor service and late delivery,0
+2137,Standard packaging,1
+2138,"Terrible quality, broke instantly",2
+2139,I love this so much,3
+2140,Poor service and late delivery,4
+2141,Standard packaging,5
+2142,"Awful experience, would not recommend",6
+2143,Poor service and late delivery,0
+2144,"Great value, highly recommend",1
+2145,The box was blue,2
+2146,"Great value, highly recommend",3
+2147,Absolutely fantastic quality,4
+2148,"Terrible quality, broke instantly",5
+2149,The box was blue,6
+2150,Very disappointed,0
+2151,"Awful experience, would not recommend",1
+2152,It arrived on Tuesday,2
+2153,Received the item,3
+2154,"Terrible quality, broke instantly",4
+2155,Poor service and late delivery,5
+2156,Standard packaging,6
+2157,Very disappointed,0
+2158,The box was blue,1
+2159,Poor service and late delivery,2
+2160,"Great value, highly recommend",3
+2161,Absolutely fantastic quality,4
+2162,"Terrible quality, broke instantly",5
+2163,"Great value, highly recommend",6
+2164,"Awful experience, would not recommend",0
+2165,Very disappointed,1
+2166,"Great value, highly recommend",2
+2167,Standard packaging,3
+2168,"Awful experience, would not recommend",4
+2169,Standard packaging,5
+2170,The box was blue,6
+2171,Very disappointed,0
+2172,Received the item,1
+2173,"Great value, highly recommend",2
+2174,Received the item,3
+2175,Received the item,4
+2176,Standard packaging,5
+2177,Absolutely fantastic quality,6
+2178,Poor service and late delivery,0
+2179,Poor service and late delivery,1
+2180,"Awful experience, would not recommend",2
+2181,It arrived on Tuesday,3
+2182,"Great value, highly recommend",4
+2183,Poor service and late delivery,5
+2184,Poor service and late delivery,6
+2185,"Great value, highly recommend",0
+2186,Standard packaging,1
+2187,Poor service and late delivery,2
+2188,Very disappointed,3
+2189,"Terrible quality, broke instantly",4
+2190,Received the item,5
+2191,I love this so much,6
+2192,Very disappointed,0
+2193,Standard packaging,1
+2194,The box was blue,2
+2195,I love this so much,3
+2196,Poor service and late delivery,4
+2197,"Terrible quality, broke instantly",5
+2198,The box was blue,6
+2199,"Awful experience, would not recommend",0
+2200,"Terrible quality, broke instantly",1
+2201,Received the item,2
+2202,Very disappointed,3
+2203,Received the item,4
+2204,Standard packaging,5
+2205,The box was blue,6
+2206,"Awful experience, would not recommend",0
+2207,Poor service and late delivery,1
+2208,Very disappointed,2
+2209,Absolutely fantastic quality,3
+2210,It arrived on Tuesday,4
+2211,It arrived on Tuesday,5
+2212,"Terrible quality, broke instantly",6
+2213,"Awful experience, would not recommend",0
+2214,Poor service and late delivery,1
+2215,The box was blue,2
+2216,Very disappointed,3
+2217,"Awful experience, would not recommend",4
+2218,Absolutely fantastic quality,5
+2219,"Awful experience, would not recommend",6
+2220,"Terrible quality, broke instantly",0
+2221,It arrived on Tuesday,1
+2222,Poor service and late delivery,2
+2223,The box was blue,3
+2224,Poor service and late delivery,4
+2225,Very disappointed,5
+2226,"Terrible quality, broke instantly",6
+2227,Very disappointed,0
+2228,"Awful experience, would not recommend",1
+2229,"Great value, highly recommend",2
+2230,"Great value, highly recommend",3
+2231,"Terrible quality, broke instantly",4
+2232,It arrived on Tuesday,5
+2233,"Terrible quality, broke instantly",6
+2234,"Great value, highly recommend",0
+2235,I love this so much,1
+2236,The box was blue,2
+2237,Standard packaging,3
+2238,"Terrible quality, broke instantly",4
+2239,It arrived on Tuesday,5
+2240,Excellent service!,6
+2241,Excellent service!,0
+2242,"Great value, highly recommend",1
+2243,Very disappointed,2
+2244,The box was blue,3
+2245,Absolutely fantastic quality,4
+2246,It arrived on Tuesday,5
+2247,Absolutely fantastic quality,6
+2248,"Great value, highly recommend",0
+2249,Standard packaging,1
+2250,"Great value, highly recommend",2
+2251,"Terrible quality, broke instantly",3
+2252,"Terrible quality, broke instantly",4
+2253,Received the item,5
+2254,Poor service and late delivery,6
+2255,I love this so much,0
+2256,Standard packaging,1
+2257,Very disappointed,2
+2258,Excellent service!,3
+2259,"Awful experience, would not recommend",4
+2260,Received the item,5
+2261,Poor service and late delivery,6
+2262,"Great value, highly recommend",0
+2263,"Awful experience, would not recommend",1
+2264,Excellent service!,2
+2265,"Great value, highly recommend",3
+2266,I love this so much,4
+2267,"Terrible quality, broke instantly",5
+2268,The box was blue,6
+2269,"Awful experience, would not recommend",0
+2270,The box was blue,1
+2271,Very disappointed,2
+2272,"Terrible quality, broke instantly",3
+2273,"Terrible quality, broke instantly",4
+2274,"Great value, highly recommend",5
+2275,Excellent service!,6
+2276,"Great value, highly recommend",0
+2277,Very disappointed,1
+2278,"Awful experience, would not recommend",2
+2279,Very disappointed,3
+2280,Standard packaging,4
+2281,I love this so much,5
+2282,"Awful experience, would not recommend",6
+2283,Very disappointed,0
+2284,It arrived on Tuesday,1
+2285,Poor service and late delivery,2
+2286,"Great value, highly recommend",3
+2287,Absolutely fantastic quality,4
+2288,Received the item,5
+2289,It arrived on Tuesday,6
+2290,Standard packaging,0
+2291,The box was blue,1
+2292,"Great value, highly recommend",2
+2293,Poor service and late delivery,3
+2294,"Great value, highly recommend",4
+2295,It arrived on Tuesday,5
+2296,"Great value, highly recommend",6
+2297,Poor service and late delivery,0
+2298,Poor service and late delivery,1
+2299,Excellent service!,2
+2300,Absolutely fantastic quality,3
+2301,I love this so much,4
+2302,Excellent service!,5
+2303,I love this so much,6
+2304,Excellent service!,0
+2305,Absolutely fantastic quality,1
+2306,"Terrible quality, broke instantly",2
+2307,Standard packaging,3
+2308,Poor service and late delivery,4
+2309,The box was blue,5
+2310,Absolutely fantastic quality,6
+2311,"Great value, highly recommend",0
+2312,It arrived on Tuesday,1
+2313,Absolutely fantastic quality,2
+2314,Excellent service!,3
+2315,Received the item,4
+2316,I love this so much,5
+2317,The box was blue,6
+2318,The box was blue,0
+2319,Poor service and late delivery,1
+2320,Poor service and late delivery,2
+2321,"Awful experience, would not recommend",3
+2322,Excellent service!,4
+2323,Poor service and late delivery,5
+2324,Absolutely fantastic quality,6
+2325,I love this so much,0
+2326,The box was blue,1
+2327,"Terrible quality, broke instantly",2
+2328,I love this so much,3
+2329,I love this so much,4
+2330,Excellent service!,5
+2331,Excellent service!,6
+2332,Absolutely fantastic quality,0
+2333,"Terrible quality, broke instantly",1
+2334,Poor service and late delivery,2
+2335,It arrived on Tuesday,3
+2336,Excellent service!,4
+2337,Excellent service!,5
+2338,I love this so much,6
+2339,Absolutely fantastic quality,0
+2340,"Awful experience, would not recommend",1
+2341,Very disappointed,2
+2342,Excellent service!,3
+2343,I love this so much,4
+2344,I love this so much,5
+2345,"Terrible quality, broke instantly",6
+2346,"Terrible quality, broke instantly",0
+2347,Very disappointed,1
+2348,Received the item,2
+2349,"Terrible quality, broke instantly",3
+2350,"Awful experience, would not recommend",4
+2351,Absolutely fantastic quality,5
+2352,Poor service and late delivery,6
+2353,I love this so much,0
+2354,"Awful experience, would not recommend",1
+2355,Poor service and late delivery,2
+2356,I love this so much,3
+2357,Very disappointed,4
+2358,"Terrible quality, broke instantly",5
+2359,Absolutely fantastic quality,6
+2360,I love this so much,0
+2361,Standard packaging,1
+2362,Standard packaging,2
+2363,The box was blue,3
+2364,Standard packaging,4
+2365,I love this so much,5
+2366,I love this so much,6
+2367,I love this so much,0
+2368,"Awful experience, would not recommend",1
+2369,Poor service and late delivery,2
+2370,Received the item,3
+2371,"Awful experience, would not recommend",4
+2372,"Terrible quality, broke instantly",5
+2373,I love this so much,6
+2374,"Terrible quality, broke instantly",0
+2375,"Awful experience, would not recommend",1
+2376,It arrived on Tuesday,2
+2377,"Great value, highly recommend",3
+2378,Standard packaging,4
+2379,"Awful experience, would not recommend",5
+2380,Standard packaging,6
+2381,It arrived on Tuesday,0
+2382,Received the item,1
+2383,Absolutely fantastic quality,2
+2384,The box was blue,3
+2385,Poor service and late delivery,4
+2386,Very disappointed,5
+2387,The box was blue,6
+2388,Excellent service!,0
+2389,"Terrible quality, broke instantly",1
+2390,The box was blue,2
+2391,Very disappointed,3
+2392,It arrived on Tuesday,4
+2393,"Great value, highly recommend",5
+2394,Absolutely fantastic quality,6
+2395,I love this so much,0
+2396,Received the item,1
+2397,Very disappointed,2
+2398,It arrived on Tuesday,3
+2399,"Terrible quality, broke instantly",4
+2400,The box was blue,5
+2401,I love this so much,6
+2402,"Awful experience, would not recommend",0
+2403,It arrived on Tuesday,1
+2404,"Awful experience, would not recommend",2
+2405,"Great value, highly recommend",3
+2406,"Great value, highly recommend",4
+2407,It arrived on Tuesday,5
+2408,Excellent service!,6
+2409,"Awful experience, would not recommend",0
+2410,Very disappointed,1
+2411,The box was blue,2
+2412,Standard packaging,3
+2413,I love this so much,4
+2414,"Awful experience, would not recommend",5
+2415,Very disappointed,6
+2416,"Awful experience, would not recommend",0
+2417,"Terrible quality, broke instantly",1
+2418,"Terrible quality, broke instantly",2
+2419,Poor service and late delivery,3
+2420,It arrived on Tuesday,4
+2421,I love this so much,5
+2422,"Terrible quality, broke instantly",6
+2423,"Great value, highly recommend",0
+2424,Absolutely fantastic quality,1
+2425,"Terrible quality, broke instantly",2
+2426,Poor service and late delivery,3
+2427,Very disappointed,4
+2428,The box was blue,5
+2429,"Great value, highly recommend",6
+2430,Received the item,0
+2431,The box was blue,1
+2432,It arrived on Tuesday,2
+2433,Standard packaging,3
+2434,The box was blue,4
+2435,Excellent service!,5
+2436,I love this so much,6
+2437,"Great value, highly recommend",0
+2438,Very disappointed,1
+2439,It arrived on Tuesday,2
+2440,I love this so much,3
+2441,Absolutely fantastic quality,4
+2442,Very disappointed,5
+2443,Very disappointed,6
+2444,I love this so much,0
+2445,Excellent service!,1
+2446,I love this so much,2
+2447,Standard packaging,3
+2448,"Terrible quality, broke instantly",4
+2449,"Awful experience, would not recommend",5
+2450,I love this so much,6
+2451,It arrived on Tuesday,0
+2452,The box was blue,1
+2453,Standard packaging,2
+2454,"Awful experience, would not recommend",3
+2455,"Great value, highly recommend",4
+2456,Very disappointed,5
+2457,Standard packaging,6
+2458,I love this so much,0
+2459,Absolutely fantastic quality,1
+2460,Received the item,2
+2461,Absolutely fantastic quality,3
+2462,"Awful experience, would not recommend",4
+2463,Excellent service!,5
+2464,The box was blue,6
+2465,Poor service and late delivery,0
+2466,It arrived on Tuesday,1
+2467,I love this so much,2
+2468,Poor service and late delivery,3
+2469,The box was blue,4
+2470,It arrived on Tuesday,5
+2471,Received the item,6
+2472,It arrived on Tuesday,0
+2473,Excellent service!,1
+2474,Poor service and late delivery,2
+2475,Excellent service!,3
+2476,Excellent service!,4
+2477,The box was blue,5
+2478,Excellent service!,6
+2479,It arrived on Tuesday,0
+2480,Absolutely fantastic quality,1
+2481,"Great value, highly recommend",2
+2482,Received the item,3
+2483,The box was blue,4
+2484,It arrived on Tuesday,5
+2485,Absolutely fantastic quality,6
+2486,The box was blue,0
+2487,Poor service and late delivery,1
+2488,I love this so much,2
+2489,It arrived on Tuesday,3
+2490,Absolutely fantastic quality,4
+2491,Very disappointed,5
+2492,I love this so much,6
+2493,Excellent service!,0
+2494,Received the item,1
+2495,The box was blue,2
+2496,Excellent service!,3
+2497,Very disappointed,4
+2498,Absolutely fantastic quality,5
+2499,Standard packaging,6
+2500,I love this so much,0
+2501,Poor service and late delivery,1
+2502,Standard packaging,2
+2503,I love this so much,3
+2504,"Terrible quality, broke instantly",4
+2505,Poor service and late delivery,5
+2506,"Terrible quality, broke instantly",6
+2507,"Awful experience, would not recommend",0
+2508,The box was blue,1
+2509,Very disappointed,2
+2510,Excellent service!,3
+2511,It arrived on Tuesday,4
+2512,The box was blue,5
+2513,"Awful experience, would not recommend",6
+2514,Excellent service!,0
+2515,"Terrible quality, broke instantly",1
+2516,The box was blue,2
+2517,"Great value, highly recommend",3
+2518,The box was blue,4
+2519,"Great value, highly recommend",5
+2520,Very disappointed,6
+2521,"Awful experience, would not recommend",0
+2522,Excellent service!,1
+2523,Absolutely fantastic quality,2
+2524,"Great value, highly recommend",3
+2525,The box was blue,4
+2526,Excellent service!,5
+2527,Received the item,6
+2528,"Awful experience, would not recommend",0
+2529,"Awful experience, would not recommend",1
+2530,Excellent service!,2
+2531,"Great value, highly recommend",3
+2532,Standard packaging,4
+2533,"Great value, highly recommend",5
+2534,Excellent service!,6
+2535,"Great value, highly recommend",0
+2536,It arrived on Tuesday,1
+2537,Very disappointed,2
+2538,Absolutely fantastic quality,3
+2539,Absolutely fantastic quality,4
+2540,Very disappointed,5
+2541,Poor service and late delivery,6
+2542,Received the item,0
+2543,"Great value, highly recommend",1
+2544,I love this so much,2
+2545,Received the item,3
+2546,Absolutely fantastic quality,4
+2547,"Awful experience, would not recommend",5
+2548,Very disappointed,6
+2549,Absolutely fantastic quality,0
+2550,Excellent service!,1
+2551,I love this so much,2
+2552,Poor service and late delivery,3
+2553,Standard packaging,4
+2554,"Awful experience, would not recommend",5
+2555,"Great value, highly recommend",6
+2556,Poor service and late delivery,0
+2557,I love this so much,1
+2558,It arrived on Tuesday,2
+2559,"Great value, highly recommend",3
+2560,"Great value, highly recommend",4
+2561,Absolutely fantastic quality,5
+2562,It arrived on Tuesday,6
+2563,Poor service and late delivery,0
+2564,It arrived on Tuesday,1
+2565,The box was blue,2
+2566,Standard packaging,3
+2567,"Awful experience, would not recommend",4
+2568,It arrived on Tuesday,5
+2569,Very disappointed,6
+2570,Poor service and late delivery,0
+2571,"Great value, highly recommend",1
+2572,"Awful experience, would not recommend",2
+2573,Standard packaging,3
+2574,Very disappointed,4
+2575,"Terrible quality, broke instantly",5
+2576,"Terrible quality, broke instantly",6
+2577,Poor service and late delivery,0
+2578,"Great value, highly recommend",1
+2579,Excellent service!,2
+2580,Standard packaging,3
+2581,"Awful experience, would not recommend",4
+2582,Standard packaging,5
+2583,Excellent service!,6
+2584,Absolutely fantastic quality,0
+2585,Poor service and late delivery,1
+2586,The box was blue,2
+2587,"Awful experience, would not recommend",3
+2588,Standard packaging,4
+2589,Received the item,5
+2590,The box was blue,6
+2591,Absolutely fantastic quality,0
+2592,It arrived on Tuesday,1
+2593,Absolutely fantastic quality,2
+2594,Received the item,3
+2595,"Terrible quality, broke instantly",4
+2596,Received the item,5
+2597,Standard packaging,6
+2598,Received the item,0
+2599,The box was blue,1
+2600,It arrived on Tuesday,2
+2601,"Awful experience, would not recommend",3
+2602,Standard packaging,4
+2603,"Great value, highly recommend",5
+2604,"Awful experience, would not recommend",6
+2605,"Awful experience, would not recommend",0
+2606,"Awful experience, would not recommend",1
+2607,Standard packaging,2
+2608,Very disappointed,3
+2609,I love this so much,4
+2610,Poor service and late delivery,5
+2611,"Terrible quality, broke instantly",6
+2612,I love this so much,0
+2613,Poor service and late delivery,1
+2614,Very disappointed,2
+2615,I love this so much,3
+2616,Absolutely fantastic quality,4
+2617,Absolutely fantastic quality,5
+2618,Absolutely fantastic quality,6
+2619,Absolutely fantastic quality,0
+2620,The box was blue,1
+2621,I love this so much,2
+2622,I love this so much,3
+2623,Absolutely fantastic quality,4
+2624,Excellent service!,5
+2625,It arrived on Tuesday,6
+2626,Very disappointed,0
+2627,Standard packaging,1
+2628,Received the item,2
+2629,Standard packaging,3
+2630,I love this so much,4
+2631,The box was blue,5
+2632,It arrived on Tuesday,6
+2633,I love this so much,0
+2634,Very disappointed,1
+2635,"Great value, highly recommend",2
+2636,Received the item,3
+2637,Absolutely fantastic quality,4
+2638,"Terrible quality, broke instantly",5
+2639,Excellent service!,6
+2640,Standard packaging,0
+2641,"Terrible quality, broke instantly",1
+2642,"Great value, highly recommend",2
+2643,Excellent service!,3
+2644,I love this so much,4
+2645,"Awful experience, would not recommend",5
+2646,Excellent service!,6
+2647,The box was blue,0
+2648,"Terrible quality, broke instantly",1
+2649,Poor service and late delivery,2
+2650,Poor service and late delivery,3
+2651,I love this so much,4
+2652,Absolutely fantastic quality,5
+2653,Excellent service!,6
+2654,"Great value, highly recommend",0
+2655,Poor service and late delivery,1
+2656,Very disappointed,2
+2657,"Terrible quality, broke instantly",3
+2658,Absolutely fantastic quality,4
+2659,"Terrible quality, broke instantly",5
+2660,"Great value, highly recommend",6
+2661,Excellent service!,0
+2662,"Awful experience, would not recommend",1
+2663,Absolutely fantastic quality,2
+2664,Standard packaging,3
+2665,Absolutely fantastic quality,4
+2666,Absolutely fantastic quality,5
+2667,Standard packaging,6
+2668,Very disappointed,0
+2669,Standard packaging,1
+2670,Very disappointed,2
+2671,"Great value, highly recommend",3
+2672,"Great value, highly recommend",4
+2673,"Great value, highly recommend",5
+2674,"Awful experience, would not recommend",6
+2675,Absolutely fantastic quality,0
+2676,"Awful experience, would not recommend",1
+2677,It arrived on Tuesday,2
+2678,"Great value, highly recommend",3
+2679,"Great value, highly recommend",4
+2680,Poor service and late delivery,5
+2681,Very disappointed,6
+2682,I love this so much,0
+2683,"Terrible quality, broke instantly",1
+2684,Poor service and late delivery,2
+2685,Received the item,3
+2686,"Great value, highly recommend",4
+2687,"Awful experience, would not recommend",5
+2688,Standard packaging,6
+2689,Received the item,0
+2690,Very disappointed,1
+2691,Poor service and late delivery,2
+2692,Very disappointed,3
+2693,"Terrible quality, broke instantly",4
+2694,Excellent service!,5
+2695,"Great value, highly recommend",6
+2696,I love this so much,0
+2697,"Awful experience, would not recommend",1
+2698,Excellent service!,2
+2699,"Terrible quality, broke instantly",3
+2700,It arrived on Tuesday,4
+2701,Very disappointed,5
+2702,It arrived on Tuesday,6
+2703,Excellent service!,0
+2704,"Terrible quality, broke instantly",1
+2705,"Terrible quality, broke instantly",2
+2706,"Great value, highly recommend",3
+2707,"Awful experience, would not recommend",4
+2708,"Terrible quality, broke instantly",5
+2709,"Terrible quality, broke instantly",6
+2710,The box was blue,0
+2711,Poor service and late delivery,1
+2712,Absolutely fantastic quality,2
+2713,Excellent service!,3
+2714,Standard packaging,4
+2715,It arrived on Tuesday,5
+2716,Excellent service!,6
+2717,"Terrible quality, broke instantly",0
+2718,"Great value, highly recommend",1
+2719,Poor service and late delivery,2
+2720,The box was blue,3
+2721,"Great value, highly recommend",4
+2722,Received the item,5
+2723,"Awful experience, would not recommend",6
+2724,"Awful experience, would not recommend",0
+2725,"Awful experience, would not recommend",1
+2726,It arrived on Tuesday,2
+2727,Very disappointed,3
+2728,I love this so much,4
+2729,Received the item,5
+2730,"Awful experience, would not recommend",6
+2731,Very disappointed,0
+2732,The box was blue,1
+2733,Very disappointed,2
+2734,"Awful experience, would not recommend",3
+2735,Poor service and late delivery,4
+2736,I love this so much,5
+2737,"Great value, highly recommend",6
+2738,"Great value, highly recommend",0
+2739,"Terrible quality, broke instantly",1
+2740,"Great value, highly recommend",2
+2741,"Great value, highly recommend",3
+2742,Standard packaging,4
+2743,Standard packaging,5
+2744,Very disappointed,6
+2745,Received the item,0
+2746,It arrived on Tuesday,1
+2747,I love this so much,2
+2748,Poor service and late delivery,3
+2749,"Awful experience, would not recommend",4
+2750,"Terrible quality, broke instantly",5
+2751,"Awful experience, would not recommend",6
+2752,"Great value, highly recommend",0
+2753,Standard packaging,1
+2754,Received the item,2
+2755,The box was blue,3
+2756,"Great value, highly recommend",4
+2757,"Terrible quality, broke instantly",5
+2758,The box was blue,6
+2759,The box was blue,0
+2760,"Terrible quality, broke instantly",1
+2761,Poor service and late delivery,2
+2762,Received the item,3
+2763,The box was blue,4
+2764,Very disappointed,5
+2765,The box was blue,6
+2766,I love this so much,0
+2767,"Great value, highly recommend",1
+2768,I love this so much,2
+2769,"Great value, highly recommend",3
+2770,I love this so much,4
+2771,It arrived on Tuesday,5
+2772,Excellent service!,6
+2773,Poor service and late delivery,0
+2774,Received the item,1
+2775,Standard packaging,2
+2776,Poor service and late delivery,3
+2777,Standard packaging,4
+2778,Very disappointed,5
+2779,Very disappointed,6
+2780,"Terrible quality, broke instantly",0
+2781,"Terrible quality, broke instantly",1
+2782,Received the item,2
+2783,It arrived on Tuesday,3
+2784,"Awful experience, would not recommend",4
+2785,Absolutely fantastic quality,5
+2786,Standard packaging,6
+2787,"Terrible quality, broke instantly",0
+2788,"Terrible quality, broke instantly",1
+2789,Received the item,2
+2790,Absolutely fantastic quality,3
+2791,It arrived on Tuesday,4
+2792,"Great value, highly recommend",5
+2793,Very disappointed,6
+2794,Absolutely fantastic quality,0
+2795,"Terrible quality, broke instantly",1
+2796,"Great value, highly recommend",2
+2797,Poor service and late delivery,3
+2798,Excellent service!,4
+2799,"Terrible quality, broke instantly",5
+2800,The box was blue,6
+2801,Standard packaging,0
+2802,The box was blue,1
+2803,It arrived on Tuesday,2
+2804,"Awful experience, would not recommend",3
+2805,Poor service and late delivery,4
+2806,"Awful experience, would not recommend",5
+2807,I love this so much,6
+2808,"Terrible quality, broke instantly",0
+2809,Very disappointed,1
+2810,I love this so much,2
+2811,I love this so much,3
+2812,"Awful experience, would not recommend",4
+2813,Poor service and late delivery,5
+2814,Absolutely fantastic quality,6
+2815,Absolutely fantastic quality,0
+2816,Poor service and late delivery,1
+2817,Excellent service!,2
+2818,"Great value, highly recommend",3
+2819,Very disappointed,4
+2820,Excellent service!,5
+2821,Excellent service!,6
+2822,I love this so much,0
+2823,"Great value, highly recommend",1
+2824,"Awful experience, would not recommend",2
+2825,"Awful experience, would not recommend",3
+2826,Very disappointed,4
+2827,Absolutely fantastic quality,5
+2828,Absolutely fantastic quality,6
+2829,I love this so much,0
+2830,Poor service and late delivery,1
+2831,"Awful experience, would not recommend",2
+2832,Received the item,3
+2833,"Terrible quality, broke instantly",4
+2834,It arrived on Tuesday,5
+2835,It arrived on Tuesday,6
+2836,Excellent service!,0
+2837,"Great value, highly recommend",1
+2838,The box was blue,2
+2839,"Awful experience, would not recommend",3
+2840,Very disappointed,4
+2841,The box was blue,5
+2842,Absolutely fantastic quality,6
+2843,Excellent service!,0
+2844,Received the item,1
+2845,Standard packaging,2
+2846,Absolutely fantastic quality,3
+2847,It arrived on Tuesday,4
+2848,Absolutely fantastic quality,5
+2849,Very disappointed,6
+2850,"Great value, highly recommend",0
+2851,Excellent service!,1
+2852,Received the item,2
+2853,Poor service and late delivery,3
+2854,Standard packaging,4
+2855,The box was blue,5
+2856,The box was blue,6
+2857,"Awful experience, would not recommend",0
+2858,I love this so much,1
+2859,Received the item,2
+2860,Excellent service!,3
+2861,"Great value, highly recommend",4
+2862,Poor service and late delivery,5
+2863,Standard packaging,6
+2864,Poor service and late delivery,0
+2865,"Awful experience, would not recommend",1
+2866,It arrived on Tuesday,2
+2867,Excellent service!,3
+2868,Received the item,4
+2869,Standard packaging,5
+2870,I love this so much,6
+2871,"Awful experience, would not recommend",0
+2872,Very disappointed,1
+2873,Poor service and late delivery,2
+2874,The box was blue,3
+2875,The box was blue,4
+2876,Poor service and late delivery,5
+2877,"Awful experience, would not recommend",6
+2878,It arrived on Tuesday,0
+2879,I love this so much,1
+2880,Very disappointed,2
+2881,Received the item,3
+2882,Standard packaging,4
+2883,It arrived on Tuesday,5
+2884,Standard packaging,6
+2885,Poor service and late delivery,0
+2886,"Great value, highly recommend",1
+2887,Received the item,2
+2888,Very disappointed,3
+2889,"Great value, highly recommend",4
+2890,It arrived on Tuesday,5
+2891,It arrived on Tuesday,6
+2892,Standard packaging,0
+2893,Received the item,1
+2894,Excellent service!,2
+2895,I love this so much,3
+2896,Absolutely fantastic quality,4
+2897,Absolutely fantastic quality,5
+2898,"Great value, highly recommend",6
+2899,Absolutely fantastic quality,0
+2900,Excellent service!,1
+2901,It arrived on Tuesday,2
+2902,"Terrible quality, broke instantly",3
+2903,I love this so much,4
+2904,Excellent service!,5
+2905,I love this so much,6
+2906,Poor service and late delivery,0
+2907,Poor service and late delivery,1
+2908,It arrived on Tuesday,2
+2909,"Awful experience, would not recommend",3
+2910,"Awful experience, would not recommend",4
+2911,It arrived on Tuesday,5
+2912,I love this so much,6
+2913,I love this so much,0
+2914,I love this so much,1
+2915,The box was blue,2
+2916,Excellent service!,3
+2917,I love this so much,4
+2918,Absolutely fantastic quality,5
+2919,Very disappointed,6
+2920,"Awful experience, would not recommend",0
+2921,It arrived on Tuesday,1
+2922,Standard packaging,2
+2923,Received the item,3
+2924,Received the item,4
+2925,Excellent service!,5
+2926,Absolutely fantastic quality,6
+2927,Absolutely fantastic quality,0
+2928,"Great value, highly recommend",1
+2929,"Terrible quality, broke instantly",2
+2930,It arrived on Tuesday,3
+2931,It arrived on Tuesday,4
+2932,Received the item,5
+2933,"Great value, highly recommend",6
+2934,Poor service and late delivery,0
+2935,"Awful experience, would not recommend",1
+2936,Absolutely fantastic quality,2
+2937,The box was blue,3
+2938,Poor service and late delivery,4
+2939,I love this so much,5
+2940,"Terrible quality, broke instantly",6
+2941,Received the item,0
+2942,"Awful experience, would not recommend",1
+2943,Poor service and late delivery,2
+2944,Poor service and late delivery,3
+2945,Received the item,4
+2946,"Awful experience, would not recommend",5
+2947,Received the item,6
+2948,"Great value, highly recommend",0
+2949,I love this so much,1
+2950,Very disappointed,2
+2951,Standard packaging,3
+2952,Very disappointed,4
+2953,Excellent service!,5
+2954,It arrived on Tuesday,6
+2955,It arrived on Tuesday,0
+2956,Excellent service!,1
+2957,Excellent service!,2
+2958,Received the item,3
+2959,"Terrible quality, broke instantly",4
+2960,Absolutely fantastic quality,5
+2961,Excellent service!,6
+2962,It arrived on Tuesday,0
+2963,Poor service and late delivery,1
+2964,Standard packaging,2
+2965,Excellent service!,3
+2966,Very disappointed,4
+2967,I love this so much,5
+2968,Standard packaging,6
+2969,I love this so much,0
+2970,Very disappointed,1
+2971,Standard packaging,2
+2972,Excellent service!,3
+2973,Very disappointed,4
+2974,Standard packaging,5
+2975,Received the item,6
+2976,I love this so much,0
+2977,"Awful experience, would not recommend",1
+2978,Very disappointed,2
+2979,Absolutely fantastic quality,3
+2980,Received the item,4
+2981,"Great value, highly recommend",5
+2982,"Terrible quality, broke instantly",6
+2983,Received the item,0
+2984,I love this so much,1
+2985,I love this so much,2
+2986,Excellent service!,3
+2987,Poor service and late delivery,4
+2988,"Terrible quality, broke instantly",5
+2989,Very disappointed,6
+2990,The box was blue,0
+2991,I love this so much,1
+2992,"Awful experience, would not recommend",2
+2993,Very disappointed,3
+2994,The box was blue,4
+2995,Absolutely fantastic quality,5
+2996,The box was blue,6
+2997,Standard packaging,0
+2998,Absolutely fantastic quality,1
+2999,"Great value, highly recommend",2
+3000,Excellent service!,3
+3001,Poor service and late delivery,4
+3002,I love this so much,5
+3003,Received the item,6
+3004,It arrived on Tuesday,0
+3005,Poor service and late delivery,1
+3006,Excellent service!,2
+3007,The box was blue,3
+3008,The box was blue,4
+3009,"Terrible quality, broke instantly",5
+3010,Very disappointed,6
+3011,The box was blue,0
+3012,Excellent service!,1
+3013,Received the item,2
+3014,Standard packaging,3
+3015,Excellent service!,4
+3016,Very disappointed,5
+3017,"Great value, highly recommend",6
+3018,"Great value, highly recommend",0
+3019,It arrived on Tuesday,1
+3020,Excellent service!,2
+3021,Very disappointed,3
+3022,Received the item,4
+3023,"Awful experience, would not recommend",5
+3024,It arrived on Tuesday,6
+3025,The box was blue,0
+3026,It arrived on Tuesday,1
+3027,Received the item,2
+3028,Very disappointed,3
+3029,Very disappointed,4
+3030,The box was blue,5
+3031,"Awful experience, would not recommend",6
+3032,The box was blue,0
+3033,"Awful experience, would not recommend",1
+3034,Standard packaging,2
+3035,"Awful experience, would not recommend",3
+3036,"Terrible quality, broke instantly",4
+3037,It arrived on Tuesday,5
+3038,I love this so much,6
+3039,I love this so much,0
+3040,I love this so much,1
+3041,Very disappointed,2
+3042,Absolutely fantastic quality,3
+3043,"Terrible quality, broke instantly",4
+3044,It arrived on Tuesday,5
+3045,It arrived on Tuesday,6
+3046,Standard packaging,0
+3047,"Terrible quality, broke instantly",1
+3048,Poor service and late delivery,2
+3049,The box was blue,3
+3050,Absolutely fantastic quality,4
+3051,Absolutely fantastic quality,5
+3052,Absolutely fantastic quality,6
+3053,"Great value, highly recommend",0
+3054,Very disappointed,1
+3055,Poor service and late delivery,2
+3056,It arrived on Tuesday,3
+3057,Excellent service!,4
+3058,"Great value, highly recommend",5
+3059,"Awful experience, would not recommend",6
+3060,Standard packaging,0
+3061,"Terrible quality, broke instantly",1
+3062,I love this so much,2
+3063,Received the item,3
+3064,"Great value, highly recommend",4
+3065,Very disappointed,5
+3066,"Awful experience, would not recommend",6
+3067,Standard packaging,0
+3068,The box was blue,1
+3069,Absolutely fantastic quality,2
+3070,Absolutely fantastic quality,3
+3071,I love this so much,4
+3072,"Great value, highly recommend",5
+3073,"Terrible quality, broke instantly",6
+3074,Poor service and late delivery,0
+3075,Received the item,1
+3076,"Terrible quality, broke instantly",2
+3077,"Terrible quality, broke instantly",3
+3078,Excellent service!,4
+3079,Absolutely fantastic quality,5
+3080,Absolutely fantastic quality,6
+3081,The box was blue,0
+3082,Excellent service!,1
+3083,Poor service and late delivery,2
+3084,Standard packaging,3
+3085,It arrived on Tuesday,4
+3086,I love this so much,5
+3087,The box was blue,6
+3088,Absolutely fantastic quality,0
+3089,I love this so much,1
+3090,It arrived on Tuesday,2
+3091,It arrived on Tuesday,3
+3092,It arrived on Tuesday,4
+3093,Standard packaging,5
+3094,Excellent service!,6
+3095,Absolutely fantastic quality,0
+3096,"Great value, highly recommend",1
+3097,Standard packaging,2
+3098,Excellent service!,3
+3099,I love this so much,4
+3100,It arrived on Tuesday,5
+3101,"Awful experience, would not recommend",6
+3102,"Terrible quality, broke instantly",0
+3103,It arrived on Tuesday,1
+3104,It arrived on Tuesday,2
+3105,Absolutely fantastic quality,3
+3106,Poor service and late delivery,4
+3107,Absolutely fantastic quality,5
+3108,"Awful experience, would not recommend",6
+3109,Standard packaging,0
+3110,Poor service and late delivery,1
+3111,Absolutely fantastic quality,2
+3112,It arrived on Tuesday,3
+3113,"Awful experience, would not recommend",4
+3114,Poor service and late delivery,5
+3115,Absolutely fantastic quality,6
+3116,It arrived on Tuesday,0
+3117,Very disappointed,1
+3118,Standard packaging,2
+3119,"Great value, highly recommend",3
+3120,Very disappointed,4
+3121,I love this so much,5
+3122,Received the item,6
+3123,Poor service and late delivery,0
+3124,Absolutely fantastic quality,1
+3125,I love this so much,2
+3126,Absolutely fantastic quality,3
+3127,It arrived on Tuesday,4
+3128,Received the item,5
+3129,The box was blue,6
+3130,Excellent service!,0
+3131,Poor service and late delivery,1
+3132,It arrived on Tuesday,2
+3133,Poor service and late delivery,3
+3134,Absolutely fantastic quality,4
+3135,Excellent service!,5
+3136,The box was blue,6
+3137,"Terrible quality, broke instantly",0
+3138,"Awful experience, would not recommend",1
+3139,"Terrible quality, broke instantly",2
+3140,"Terrible quality, broke instantly",3
+3141,"Great value, highly recommend",4
+3142,I love this so much,5
+3143,"Great value, highly recommend",6
+3144,The box was blue,0
+3145,Very disappointed,1
+3146,Standard packaging,2
+3147,Excellent service!,3
+3148,The box was blue,4
+3149,Absolutely fantastic quality,5
+3150,Excellent service!,6
+3151,Absolutely fantastic quality,0
+3152,Very disappointed,1
+3153,"Terrible quality, broke instantly",2
+3154,Excellent service!,3
+3155,Absolutely fantastic quality,4
+3156,Absolutely fantastic quality,5
+3157,"Great value, highly recommend",6
+3158,"Great value, highly recommend",0
+3159,Very disappointed,1
+3160,Poor service and late delivery,2
+3161,"Awful experience, would not recommend",3
+3162,The box was blue,4
+3163,Standard packaging,5
+3164,"Great value, highly recommend",6
+3165,The box was blue,0
+3166,Very disappointed,1
+3167,"Awful experience, would not recommend",2
+3168,"Terrible quality, broke instantly",3
+3169,Received the item,4
+3170,"Awful experience, would not recommend",5
+3171,"Great value, highly recommend",6
+3172,It arrived on Tuesday,0
+3173,Poor service and late delivery,1
+3174,Received the item,2
+3175,Excellent service!,3
+3176,Very disappointed,4
+3177,Received the item,5
+3178,"Terrible quality, broke instantly",6
+3179,Received the item,0
+3180,The box was blue,1
+3181,Poor service and late delivery,2
+3182,Standard packaging,3
+3183,Standard packaging,4
+3184,"Great value, highly recommend",5
+3185,"Awful experience, would not recommend",6
+3186,Excellent service!,0
+3187,Very disappointed,1
+3188,Very disappointed,2
+3189,"Terrible quality, broke instantly",3
+3190,It arrived on Tuesday,4
+3191,Standard packaging,5
+3192,It arrived on Tuesday,6
+3193,Standard packaging,0
+3194,"Great value, highly recommend",1
+3195,Received the item,2
+3196,Absolutely fantastic quality,3
+3197,It arrived on Tuesday,4
+3198,The box was blue,5
+3199,Received the item,6
+3200,Absolutely fantastic quality,0
+3201,Received the item,1
+3202,Standard packaging,2
+3203,The box was blue,3
+3204,The box was blue,4
+3205,"Awful experience, would not recommend",5
+3206,"Awful experience, would not recommend",6
+3207,Standard packaging,0
+3208,Absolutely fantastic quality,1
+3209,It arrived on Tuesday,2
+3210,I love this so much,3
+3211,Received the item,4
+3212,Absolutely fantastic quality,5
+3213,It arrived on Tuesday,6
+3214,"Great value, highly recommend",0
+3215,Received the item,1
+3216,Very disappointed,2
+3217,Excellent service!,3
+3218,The box was blue,4
+3219,It arrived on Tuesday,5
+3220,Very disappointed,6
+3221,"Great value, highly recommend",0
+3222,The box was blue,1
+3223,"Terrible quality, broke instantly",2
+3224,"Awful experience, would not recommend",3
+3225,I love this so much,4
+3226,"Awful experience, would not recommend",5
+3227,It arrived on Tuesday,6
+3228,Absolutely fantastic quality,0
+3229,Excellent service!,1
+3230,Very disappointed,2
+3231,I love this so much,3
+3232,Very disappointed,4
+3233,"Terrible quality, broke instantly",5
+3234,Poor service and late delivery,6
+3235,Absolutely fantastic quality,0
+3236,Excellent service!,1
+3237,Received the item,2
+3238,It arrived on Tuesday,3
+3239,I love this so much,4
+3240,Received the item,5
+3241,Excellent service!,6
+3242,"Great value, highly recommend",0
+3243,"Awful experience, would not recommend",1
+3244,It arrived on Tuesday,2
+3245,Very disappointed,3
+3246,Received the item,4
+3247,Poor service and late delivery,5
+3248,It arrived on Tuesday,6
+3249,Excellent service!,0
+3250,The box was blue,1
+3251,"Awful experience, would not recommend",2
+3252,Poor service and late delivery,3
+3253,Poor service and late delivery,4
+3254,I love this so much,5
+3255,Received the item,6
+3256,"Great value, highly recommend",0
+3257,The box was blue,1
+3258,"Terrible quality, broke instantly",2
+3259,I love this so much,3
+3260,Absolutely fantastic quality,4
+3261,It arrived on Tuesday,5
+3262,Received the item,6
+3263,Poor service and late delivery,0
+3264,Standard packaging,1
+3265,Very disappointed,2
+3266,"Awful experience, would not recommend",3
+3267,Excellent service!,4
+3268,"Great value, highly recommend",5
+3269,The box was blue,6
+3270,Excellent service!,0
+3271,Standard packaging,1
+3272,Very disappointed,2
+3273,It arrived on Tuesday,3
+3274,Very disappointed,4
+3275,"Great value, highly recommend",5
+3276,Very disappointed,6
+3277,"Great value, highly recommend",0
+3278,"Terrible quality, broke instantly",1
+3279,The box was blue,2
+3280,It arrived on Tuesday,3
+3281,The box was blue,4
+3282,It arrived on Tuesday,5
+3283,Absolutely fantastic quality,6
+3284,Poor service and late delivery,0
+3285,Received the item,1
+3286,The box was blue,2
+3287,Excellent service!,3
+3288,"Great value, highly recommend",4
+3289,"Terrible quality, broke instantly",5
+3290,Excellent service!,6
+3291,"Great value, highly recommend",0
+3292,Poor service and late delivery,1
+3293,"Terrible quality, broke instantly",2
+3294,Received the item,3
+3295,Absolutely fantastic quality,4
+3296,Absolutely fantastic quality,5
+3297,"Awful experience, would not recommend",6
+3298,The box was blue,0
+3299,"Awful experience, would not recommend",1
+3300,Very disappointed,2
+3301,The box was blue,3
+3302,Poor service and late delivery,4
+3303,"Terrible quality, broke instantly",5
+3304,"Great value, highly recommend",6
+3305,Standard packaging,0
+3306,"Awful experience, would not recommend",1
+3307,"Awful experience, would not recommend",2
+3308,Poor service and late delivery,3
+3309,Very disappointed,4
+3310,"Awful experience, would not recommend",5
+3311,Received the item,6
+3312,The box was blue,0
+3313,I love this so much,1
+3314,I love this so much,2
+3315,"Awful experience, would not recommend",3
+3316,It arrived on Tuesday,4
+3317,I love this so much,5
+3318,Absolutely fantastic quality,6
+3319,It arrived on Tuesday,0
+3320,Poor service and late delivery,1
+3321,"Awful experience, would not recommend",2
+3322,Absolutely fantastic quality,3
+3323,Standard packaging,4
+3324,"Terrible quality, broke instantly",5
+3325,"Great value, highly recommend",6
+3326,It arrived on Tuesday,0
+3327,I love this so much,1
+3328,"Terrible quality, broke instantly",2
+3329,Absolutely fantastic quality,3
+3330,Very disappointed,4
+3331,Very disappointed,5
+3332,It arrived on Tuesday,6
+3333,Excellent service!,0
+3334,Very disappointed,1
+3335,"Terrible quality, broke instantly",2
+3336,"Great value, highly recommend",3
+3337,"Great value, highly recommend",4
+3338,Excellent service!,5
+3339,"Awful experience, would not recommend",6
+3340,Received the item,0
+3341,Received the item,1
+3342,Absolutely fantastic quality,2
+3343,Standard packaging,3
+3344,"Awful experience, would not recommend",4
+3345,"Great value, highly recommend",5
+3346,It arrived on Tuesday,6
+3347,I love this so much,0
+3348,Excellent service!,1
+3349,Received the item,2
+3350,Very disappointed,3
+3351,Poor service and late delivery,4
+3352,"Great value, highly recommend",5
+3353,The box was blue,6
+3354,"Great value, highly recommend",0
+3355,Received the item,1
+3356,Absolutely fantastic quality,2
+3357,The box was blue,3
+3358,The box was blue,4
+3359,Absolutely fantastic quality,5
+3360,It arrived on Tuesday,6
+3361,Standard packaging,0
+3362,It arrived on Tuesday,1
+3363,Standard packaging,2
+3364,The box was blue,3
+3365,Received the item,4
+3366,"Great value, highly recommend",5
+3367,The box was blue,6
+3368,"Awful experience, would not recommend",0
+3369,"Awful experience, would not recommend",1
+3370,It arrived on Tuesday,2
+3371,Poor service and late delivery,3
+3372,Received the item,4
+3373,Poor service and late delivery,5
+3374,I love this so much,6
+3375,Excellent service!,0
+3376,Absolutely fantastic quality,1
+3377,The box was blue,2
+3378,Poor service and late delivery,3
+3379,Standard packaging,4
+3380,I love this so much,5
+3381,Absolutely fantastic quality,6
+3382,Excellent service!,0
+3383,"Awful experience, would not recommend",1
+3384,Received the item,2
+3385,I love this so much,3
+3386,Excellent service!,4
+3387,I love this so much,5
+3388,Poor service and late delivery,6
+3389,"Great value, highly recommend",0
+3390,"Awful experience, would not recommend",1
+3391,"Awful experience, would not recommend",2
+3392,Very disappointed,3
+3393,It arrived on Tuesday,4
+3394,It arrived on Tuesday,5
+3395,"Awful experience, would not recommend",6
+3396,Very disappointed,0
+3397,"Great value, highly recommend",1
+3398,"Terrible quality, broke instantly",2
+3399,I love this so much,3
+3400,Absolutely fantastic quality,4
+3401,I love this so much,5
+3402,Standard packaging,6
+3403,"Great value, highly recommend",0
+3404,The box was blue,1
+3405,It arrived on Tuesday,2
+3406,Received the item,3
+3407,"Great value, highly recommend",4
+3408,Excellent service!,5
+3409,Absolutely fantastic quality,6
+3410,I love this so much,0
+3411,It arrived on Tuesday,1
+3412,Received the item,2
+3413,Absolutely fantastic quality,3
+3414,"Great value, highly recommend",4
+3415,"Great value, highly recommend",5
+3416,Received the item,6
+3417,Poor service and late delivery,0
+3418,"Great value, highly recommend",1
+3419,It arrived on Tuesday,2
+3420,Poor service and late delivery,3
+3421,Poor service and late delivery,4
+3422,Poor service and late delivery,5
+3423,The box was blue,6
+3424,Received the item,0
+3425,I love this so much,1
+3426,"Awful experience, would not recommend",2
+3427,The box was blue,3
+3428,"Terrible quality, broke instantly",4
+3429,"Great value, highly recommend",5
+3430,It arrived on Tuesday,6
+3431,"Great value, highly recommend",0
+3432,Poor service and late delivery,1
+3433,"Awful experience, would not recommend",2
+3434,Excellent service!,3
+3435,"Great value, highly recommend",4
+3436,The box was blue,5
+3437,Excellent service!,6
+3438,"Terrible quality, broke instantly",0
+3439,Very disappointed,1
+3440,Excellent service!,2
+3441,Standard packaging,3
+3442,"Awful experience, would not recommend",4
+3443,It arrived on Tuesday,5
+3444,I love this so much,6
+3445,"Terrible quality, broke instantly",0
+3446,It arrived on Tuesday,1
+3447,Standard packaging,2
+3448,"Awful experience, would not recommend",3
+3449,I love this so much,4
+3450,"Terrible quality, broke instantly",5
+3451,It arrived on Tuesday,6
+3452,Very disappointed,0
+3453,"Awful experience, would not recommend",1
+3454,Poor service and late delivery,2
+3455,Poor service and late delivery,3
+3456,I love this so much,4
+3457,Poor service and late delivery,5
+3458,Received the item,6
+3459,Received the item,0
+3460,Excellent service!,1
+3461,Excellent service!,2
+3462,"Great value, highly recommend",3
+3463,Received the item,4
+3464,Standard packaging,5
+3465,I love this so much,6
+3466,Poor service and late delivery,0
+3467,The box was blue,1
+3468,Excellent service!,2
+3469,Standard packaging,3
+3470,The box was blue,4
+3471,"Awful experience, would not recommend",5
+3472,The box was blue,6
+3473,The box was blue,0
+3474,I love this so much,1
+3475,It arrived on Tuesday,2
+3476,Excellent service!,3
+3477,Very disappointed,4
+3478,Poor service and late delivery,5
+3479,"Terrible quality, broke instantly",6
+3480,I love this so much,0
+3481,Standard packaging,1
+3482,"Terrible quality, broke instantly",2
+3483,Standard packaging,3
+3484,Excellent service!,4
+3485,I love this so much,5
+3486,Absolutely fantastic quality,6
+3487,"Awful experience, would not recommend",0
+3488,"Terrible quality, broke instantly",1
+3489,Absolutely fantastic quality,2
+3490,"Terrible quality, broke instantly",3
+3491,"Great value, highly recommend",4
+3492,Received the item,5
+3493,The box was blue,6
+3494,It arrived on Tuesday,0
+3495,"Terrible quality, broke instantly",1
+3496,Poor service and late delivery,2
+3497,It arrived on Tuesday,3
+3498,I love this so much,4
+3499,It arrived on Tuesday,5
+3500,"Awful experience, would not recommend",6
+3501,Very disappointed,0
+3502,Poor service and late delivery,1
+3503,The box was blue,2
+3504,Poor service and late delivery,3
+3505,"Great value, highly recommend",4
+3506,Standard packaging,5
+3507,Standard packaging,6
+3508,"Terrible quality, broke instantly",0
+3509,Excellent service!,1
+3510,The box was blue,2
+3511,It arrived on Tuesday,3
+3512,Standard packaging,4
+3513,Very disappointed,5
+3514,The box was blue,6
+3515,Standard packaging,0
+3516,"Awful experience, would not recommend",1
+3517,Received the item,2
+3518,The box was blue,3
+3519,Absolutely fantastic quality,4
+3520,"Terrible quality, broke instantly",5
+3521,"Great value, highly recommend",6
+3522,"Awful experience, would not recommend",0
+3523,Standard packaging,1
+3524,"Awful experience, would not recommend",2
+3525,Received the item,3
+3526,I love this so much,4
+3527,It arrived on Tuesday,5
+3528,Excellent service!,6
+3529,Poor service and late delivery,0
+3530,Absolutely fantastic quality,1
+3531,Received the item,2
+3532,Poor service and late delivery,3
+3533,"Great value, highly recommend",4
+3534,Very disappointed,5
+3535,Received the item,6
+3536,Poor service and late delivery,0
+3537,Excellent service!,1
+3538,"Great value, highly recommend",2
+3539,Poor service and late delivery,3
+3540,I love this so much,4
+3541,I love this so much,5
+3542,"Awful experience, would not recommend",6
+3543,Standard packaging,0
+3544,Received the item,1
+3545,Standard packaging,2
+3546,Very disappointed,3
+3547,Absolutely fantastic quality,4
+3548,I love this so much,5
+3549,Absolutely fantastic quality,6
+3550,Standard packaging,0
+3551,Absolutely fantastic quality,1
+3552,Absolutely fantastic quality,2
+3553,Standard packaging,3
+3554,It arrived on Tuesday,4
+3555,The box was blue,5
+3556,It arrived on Tuesday,6
+3557,The box was blue,0
+3558,Received the item,1
+3559,Excellent service!,2
+3560,Poor service and late delivery,3
+3561,I love this so much,4
+3562,Excellent service!,5
+3563,The box was blue,6
+3564,I love this so much,0
+3565,Received the item,1
+3566,"Terrible quality, broke instantly",2
+3567,Excellent service!,3
+3568,The box was blue,4
+3569,"Great value, highly recommend",5
+3570,"Terrible quality, broke instantly",6
+3571,I love this so much,0
+3572,Poor service and late delivery,1
+3573,"Awful experience, would not recommend",2
+3574,The box was blue,3
+3575,Poor service and late delivery,4
+3576,Standard packaging,5
+3577,The box was blue,6
+3578,I love this so much,0
+3579,Very disappointed,1
+3580,Poor service and late delivery,2
+3581,"Great value, highly recommend",3
+3582,Very disappointed,4
+3583,"Great value, highly recommend",5
+3584,"Terrible quality, broke instantly",6
+3585,"Great value, highly recommend",0
+3586,Standard packaging,1
+3587,Very disappointed,2
+3588,Received the item,3
+3589,Received the item,4
+3590,Standard packaging,5
+3591,Absolutely fantastic quality,6
+3592,Absolutely fantastic quality,0
+3593,"Awful experience, would not recommend",1
+3594,Absolutely fantastic quality,2
+3595,Excellent service!,3
+3596,Very disappointed,4
+3597,"Great value, highly recommend",5
+3598,Poor service and late delivery,6
+3599,It arrived on Tuesday,0
+3600,"Awful experience, would not recommend",1
+3601,Absolutely fantastic quality,2
+3602,It arrived on Tuesday,3
+3603,Excellent service!,4
+3604,I love this so much,5
+3605,Received the item,6
+3606,"Terrible quality, broke instantly",0
+3607,The box was blue,1
+3608,I love this so much,2
+3609,Poor service and late delivery,3
+3610,"Great value, highly recommend",4
+3611,Received the item,5
+3612,Received the item,6
+3613,I love this so much,0
+3614,It arrived on Tuesday,1
+3615,Poor service and late delivery,2
+3616,Absolutely fantastic quality,3
+3617,It arrived on Tuesday,4
+3618,I love this so much,5
+3619,Excellent service!,6
+3620,Received the item,0
+3621,It arrived on Tuesday,1
+3622,Poor service and late delivery,2
+3623,Very disappointed,3
+3624,Excellent service!,4
+3625,Very disappointed,5
+3626,It arrived on Tuesday,6
+3627,Received the item,0
+3628,Excellent service!,1
+3629,Excellent service!,2
+3630,"Terrible quality, broke instantly",3
+3631,Received the item,4
+3632,"Terrible quality, broke instantly",5
+3633,Excellent service!,6
+3634,It arrived on Tuesday,0
+3635,Poor service and late delivery,1
+3636,Very disappointed,2
+3637,"Terrible quality, broke instantly",3
+3638,The box was blue,4
+3639,Received the item,5
+3640,It arrived on Tuesday,6
+3641,It arrived on Tuesday,0
+3642,Standard packaging,1
+3643,"Awful experience, would not recommend",2
+3644,Poor service and late delivery,3
+3645,"Terrible quality, broke instantly",4
+3646,Received the item,5
+3647,"Awful experience, would not recommend",6
+3648,Poor service and late delivery,0
+3649,It arrived on Tuesday,1
+3650,Very disappointed,2
+3651,"Terrible quality, broke instantly",3
+3652,"Great value, highly recommend",4
+3653,"Terrible quality, broke instantly",5
+3654,I love this so much,6
+3655,"Awful experience, would not recommend",0
+3656,The box was blue,1
+3657,Poor service and late delivery,2
+3658,"Great value, highly recommend",3
+3659,"Awful experience, would not recommend",4
+3660,Absolutely fantastic quality,5
+3661,Received the item,6
+3662,The box was blue,0
+3663,The box was blue,1
+3664,Very disappointed,2
+3665,It arrived on Tuesday,3
+3666,Very disappointed,4
+3667,It arrived on Tuesday,5
+3668,Absolutely fantastic quality,6
+3669,Excellent service!,0
+3670,"Terrible quality, broke instantly",1
+3671,Standard packaging,2
+3672,Absolutely fantastic quality,3
+3673,The box was blue,4
+3674,It arrived on Tuesday,5
+3675,"Terrible quality, broke instantly",6
+3676,The box was blue,0
+3677,It arrived on Tuesday,1
+3678,Absolutely fantastic quality,2
+3679,The box was blue,3
+3680,I love this so much,4
+3681,It arrived on Tuesday,5
+3682,Excellent service!,6
+3683,Very disappointed,0
+3684,Absolutely fantastic quality,1
+3685,Received the item,2
+3686,"Awful experience, would not recommend",3
+3687,Poor service and late delivery,4
+3688,Standard packaging,5
+3689,"Awful experience, would not recommend",6
+3690,"Great value, highly recommend",0
+3691,Absolutely fantastic quality,1
+3692,"Terrible quality, broke instantly",2
+3693,"Terrible quality, broke instantly",3
+3694,"Great value, highly recommend",4
+3695,"Great value, highly recommend",5
+3696,It arrived on Tuesday,6
+3697,Very disappointed,0
+3698,Poor service and late delivery,1
+3699,"Awful experience, would not recommend",2
+3700,It arrived on Tuesday,3
+3701,"Great value, highly recommend",4
+3702,The box was blue,5
+3703,Absolutely fantastic quality,6
+3704,I love this so much,0
+3705,Excellent service!,1
+3706,Absolutely fantastic quality,2
+3707,Excellent service!,3
+3708,"Terrible quality, broke instantly",4
+3709,Received the item,5
+3710,I love this so much,6
+3711,Standard packaging,0
+3712,Absolutely fantastic quality,1
+3713,Poor service and late delivery,2
+3714,Very disappointed,3
+3715,Standard packaging,4
+3716,"Awful experience, would not recommend",5
+3717,It arrived on Tuesday,6
+3718,Received the item,0
+3719,Standard packaging,1
+3720,"Terrible quality, broke instantly",2
+3721,Excellent service!,3
+3722,Received the item,4
+3723,The box was blue,5
+3724,Poor service and late delivery,6
+3725,Received the item,0
+3726,"Terrible quality, broke instantly",1
+3727,Excellent service!,2
+3728,Excellent service!,3
+3729,Standard packaging,4
+3730,Standard packaging,5
+3731,It arrived on Tuesday,6
+3732,Absolutely fantastic quality,0
+3733,Poor service and late delivery,1
+3734,I love this so much,2
+3735,Received the item,3
+3736,Received the item,4
+3737,"Terrible quality, broke instantly",5
+3738,"Terrible quality, broke instantly",6
+3739,The box was blue,0
+3740,Received the item,1
+3741,"Awful experience, would not recommend",2
+3742,Standard packaging,3
+3743,Received the item,4
+3744,Received the item,5
+3745,"Awful experience, would not recommend",6
+3746,"Great value, highly recommend",0
+3747,"Terrible quality, broke instantly",1
+3748,It arrived on Tuesday,2
+3749,Received the item,3
+3750,The box was blue,4
+3751,It arrived on Tuesday,5
+3752,Received the item,6
+3753,"Awful experience, would not recommend",0
+3754,"Terrible quality, broke instantly",1
+3755,Absolutely fantastic quality,2
+3756,Received the item,3
+3757,Excellent service!,4
+3758,Received the item,5
+3759,Poor service and late delivery,6
+3760,Received the item,0
+3761,Absolutely fantastic quality,1
+3762,"Great value, highly recommend",2
+3763,"Terrible quality, broke instantly",3
+3764,Poor service and late delivery,4
+3765,Standard packaging,5
+3766,Poor service and late delivery,6
+3767,"Awful experience, would not recommend",0
+3768,Excellent service!,1
+3769,Standard packaging,2
+3770,Standard packaging,3
+3771,Received the item,4
+3772,Excellent service!,5
+3773,"Awful experience, would not recommend",6
+3774,"Terrible quality, broke instantly",0
+3775,I love this so much,1
+3776,Standard packaging,2
+3777,Absolutely fantastic quality,3
+3778,Excellent service!,4
+3779,Received the item,5
+3780,Poor service and late delivery,6
+3781,"Terrible quality, broke instantly",0
+3782,I love this so much,1
+3783,Absolutely fantastic quality,2
+3784,"Terrible quality, broke instantly",3
+3785,The box was blue,4
+3786,Very disappointed,5
+3787,It arrived on Tuesday,6
+3788,"Great value, highly recommend",0
+3789,Poor service and late delivery,1
+3790,I love this so much,2
+3791,I love this so much,3
+3792,Standard packaging,4
+3793,Excellent service!,5
+3794,Very disappointed,6
+3795,Received the item,0
+3796,"Great value, highly recommend",1
+3797,Excellent service!,2
+3798,Absolutely fantastic quality,3
+3799,Standard packaging,4
+3800,Excellent service!,5
+3801,"Terrible quality, broke instantly",6
+3802,"Great value, highly recommend",0
+3803,Standard packaging,1
+3804,"Awful experience, would not recommend",2
+3805,"Terrible quality, broke instantly",3
+3806,Very disappointed,4
+3807,The box was blue,5
+3808,Very disappointed,6
+3809,I love this so much,0
+3810,Received the item,1
+3811,Very disappointed,2
+3812,Received the item,3
+3813,Absolutely fantastic quality,4
+3814,The box was blue,5
+3815,Very disappointed,6
+3816,Poor service and late delivery,0
+3817,Very disappointed,1
+3818,Poor service and late delivery,2
+3819,I love this so much,3
+3820,"Terrible quality, broke instantly",4
+3821,Poor service and late delivery,5
+3822,Very disappointed,6
+3823,The box was blue,0
+3824,The box was blue,1
+3825,It arrived on Tuesday,2
+3826,The box was blue,3
+3827,Received the item,4
+3828,"Great value, highly recommend",5
+3829,The box was blue,6
+3830,Poor service and late delivery,0
+3831,"Awful experience, would not recommend",1
+3832,Received the item,2
+3833,"Awful experience, would not recommend",3
+3834,"Awful experience, would not recommend",4
+3835,Received the item,5
+3836,It arrived on Tuesday,6
+3837,"Great value, highly recommend",0
+3838,The box was blue,1
+3839,"Awful experience, would not recommend",2
+3840,Excellent service!,3
+3841,Very disappointed,4
+3842,"Great value, highly recommend",5
+3843,"Awful experience, would not recommend",6
+3844,"Great value, highly recommend",0
+3845,Received the item,1
+3846,Received the item,2
+3847,Standard packaging,3
+3848,It arrived on Tuesday,4
+3849,"Great value, highly recommend",5
+3850,"Great value, highly recommend",6
+3851,Excellent service!,0
+3852,Standard packaging,1
+3853,"Great value, highly recommend",2
+3854,It arrived on Tuesday,3
+3855,Very disappointed,4
+3856,Absolutely fantastic quality,5
+3857,It arrived on Tuesday,6
+3858,Very disappointed,0
+3859,It arrived on Tuesday,1
+3860,"Awful experience, would not recommend",2
+3861,Standard packaging,3
+3862,Excellent service!,4
+3863,Standard packaging,5
+3864,It arrived on Tuesday,6
+3865,Received the item,0
+3866,Very disappointed,1
+3867,"Awful experience, would not recommend",2
+3868,Received the item,3
+3869,The box was blue,4
+3870,"Great value, highly recommend",5
+3871,"Terrible quality, broke instantly",6
+3872,Absolutely fantastic quality,0
+3873,I love this so much,1
+3874,Absolutely fantastic quality,2
+3875,Excellent service!,3
+3876,Received the item,4
+3877,It arrived on Tuesday,5
+3878,Absolutely fantastic quality,6
+3879,Received the item,0
+3880,I love this so much,1
+3881,Very disappointed,2
+3882,I love this so much,3
+3883,Standard packaging,4
+3884,Excellent service!,5
+3885,Absolutely fantastic quality,6
+3886,"Terrible quality, broke instantly",0
+3887,"Awful experience, would not recommend",1
+3888,The box was blue,2
+3889,The box was blue,3
+3890,Very disappointed,4
+3891,It arrived on Tuesday,5
+3892,Standard packaging,6
+3893,The box was blue,0
+3894,It arrived on Tuesday,1
+3895,Received the item,2
+3896,Absolutely fantastic quality,3
+3897,"Terrible quality, broke instantly",4
+3898,Poor service and late delivery,5
+3899,"Awful experience, would not recommend",6
+3900,"Terrible quality, broke instantly",0
+3901,The box was blue,1
+3902,Absolutely fantastic quality,2
+3903,Very disappointed,3
+3904,It arrived on Tuesday,4
+3905,It arrived on Tuesday,5
+3906,"Terrible quality, broke instantly",6
+3907,Received the item,0
+3908,Received the item,1
+3909,Standard packaging,2
+3910,It arrived on Tuesday,3
+3911,Excellent service!,4
+3912,I love this so much,5
+3913,"Great value, highly recommend",6
+3914,Poor service and late delivery,0
+3915,I love this so much,1
+3916,"Terrible quality, broke instantly",2
+3917,"Terrible quality, broke instantly",3
+3918,"Awful experience, would not recommend",4
+3919,Excellent service!,5
+3920,Standard packaging,6
+3921,It arrived on Tuesday,0
+3922,Standard packaging,1
+3923,"Terrible quality, broke instantly",2
+3924,The box was blue,3
+3925,The box was blue,4
+3926,"Awful experience, would not recommend",5
+3927,Absolutely fantastic quality,6
+3928,"Great value, highly recommend",0
+3929,Excellent service!,1
+3930,Standard packaging,2
+3931,Excellent service!,3
+3932,It arrived on Tuesday,4
+3933,"Terrible quality, broke instantly",5
+3934,It arrived on Tuesday,6
+3935,The box was blue,0
+3936,Received the item,1
+3937,Absolutely fantastic quality,2
+3938,Poor service and late delivery,3
+3939,Excellent service!,4
+3940,Standard packaging,5
+3941,Absolutely fantastic quality,6
+3942,Excellent service!,0
+3943,Very disappointed,1
+3944,"Terrible quality, broke instantly",2
+3945,"Awful experience, would not recommend",3
+3946,"Awful experience, would not recommend",4
+3947,I love this so much,5
+3948,"Great value, highly recommend",6
+3949,"Great value, highly recommend",0
+3950,I love this so much,1
+3951,Excellent service!,2
+3952,I love this so much,3
+3953,Excellent service!,4
+3954,The box was blue,5
+3955,Standard packaging,6
+3956,"Awful experience, would not recommend",0
+3957,Excellent service!,1
+3958,The box was blue,2
+3959,"Great value, highly recommend",3
+3960,"Awful experience, would not recommend",4
+3961,It arrived on Tuesday,5
+3962,"Awful experience, would not recommend",6
+3963,It arrived on Tuesday,0
+3964,"Great value, highly recommend",1
+3965,"Awful experience, would not recommend",2
+3966,"Terrible quality, broke instantly",3
+3967,Very disappointed,4
+3968,"Terrible quality, broke instantly",5
+3969,Received the item,6
+3970,"Terrible quality, broke instantly",0
+3971,"Great value, highly recommend",1
+3972,Received the item,2
+3973,Excellent service!,3
+3974,"Great value, highly recommend",4
+3975,Poor service and late delivery,5
+3976,Excellent service!,6
+3977,Standard packaging,0
+3978,It arrived on Tuesday,1
+3979,It arrived on Tuesday,2
+3980,It arrived on Tuesday,3
+3981,Received the item,4
+3982,The box was blue,5
+3983,"Terrible quality, broke instantly",6
+3984,It arrived on Tuesday,0
+3985,I love this so much,1
+3986,I love this so much,2
+3987,Very disappointed,3
+3988,Standard packaging,4
+3989,Absolutely fantastic quality,5
+3990,"Awful experience, would not recommend",6
+3991,Standard packaging,0
+3992,Poor service and late delivery,1
+3993,Received the item,2
+3994,Absolutely fantastic quality,3
+3995,"Great value, highly recommend",4
+3996,"Great value, highly recommend",5
+3997,Poor service and late delivery,6
+3998,I love this so much,0
+3999,The box was blue,1
+4000,Excellent service!,2
+4001,Poor service and late delivery,3
+4002,"Awful experience, would not recommend",4
+4003,I love this so much,5
+4004,Received the item,6
+4005,I love this so much,0
+4006,"Awful experience, would not recommend",1
+4007,Standard packaging,2
+4008,"Great value, highly recommend",3
+4009,Excellent service!,4
+4010,"Awful experience, would not recommend",5
+4011,Very disappointed,6
+4012,"Terrible quality, broke instantly",0
+4013,It arrived on Tuesday,1
+4014,"Great value, highly recommend",2
+4015,The box was blue,3
+4016,Very disappointed,4
+4017,Excellent service!,5
+4018,"Great value, highly recommend",6
+4019,"Awful experience, would not recommend",0
+4020,"Great value, highly recommend",1
+4021,"Awful experience, would not recommend",2
+4022,Very disappointed,3
+4023,Standard packaging,4
+4024,The box was blue,5
+4025,Standard packaging,6
+4026,Poor service and late delivery,0
+4027,Absolutely fantastic quality,1
+4028,"Awful experience, would not recommend",2
+4029,The box was blue,3
+4030,"Great value, highly recommend",4
+4031,Excellent service!,5
+4032,Received the item,6
+4033,Received the item,0
+4034,"Great value, highly recommend",1
+4035,Excellent service!,2
+4036,Very disappointed,3
+4037,"Great value, highly recommend",4
+4038,"Awful experience, would not recommend",5
+4039,Standard packaging,6
+4040,Absolutely fantastic quality,0
+4041,Received the item,1
+4042,"Awful experience, would not recommend",2
+4043,Absolutely fantastic quality,3
+4044,Very disappointed,4
+4045,Very disappointed,5
+4046,Excellent service!,6
+4047,I love this so much,0
+4048,It arrived on Tuesday,1
+4049,I love this so much,2
+4050,Received the item,3
+4051,The box was blue,4
+4052,Standard packaging,5
+4053,It arrived on Tuesday,6
+4054,"Terrible quality, broke instantly",0
+4055,"Terrible quality, broke instantly",1
+4056,Absolutely fantastic quality,2
+4057,Very disappointed,3
+4058,"Terrible quality, broke instantly",4
+4059,Poor service and late delivery,5
+4060,Absolutely fantastic quality,6
+4061,Standard packaging,0
+4062,It arrived on Tuesday,1
+4063,Standard packaging,2
+4064,Excellent service!,3
+4065,Very disappointed,4
+4066,Very disappointed,5
+4067,"Terrible quality, broke instantly",6
+4068,"Awful experience, would not recommend",0
+4069,Very disappointed,1
+4070,Standard packaging,2
+4071,It arrived on Tuesday,3
+4072,I love this so much,4
+4073,Excellent service!,5
+4074,The box was blue,6
+4075,Poor service and late delivery,0
+4076,Standard packaging,1
+4077,Absolutely fantastic quality,2
+4078,Very disappointed,3
+4079,I love this so much,4
+4080,"Awful experience, would not recommend",5
+4081,Absolutely fantastic quality,6
+4082,Received the item,0
+4083,Excellent service!,1
+4084,Poor service and late delivery,2
+4085,I love this so much,3
+4086,It arrived on Tuesday,4
+4087,"Great value, highly recommend",5
+4088,I love this so much,6
+4089,"Terrible quality, broke instantly",0
+4090,Absolutely fantastic quality,1
+4091,Standard packaging,2
+4092,"Terrible quality, broke instantly",3
+4093,"Awful experience, would not recommend",4
+4094,The box was blue,5
+4095,Very disappointed,6
+4096,The box was blue,0
+4097,Excellent service!,1
+4098,Excellent service!,2
+4099,The box was blue,3
+4100,"Great value, highly recommend",4
+4101,The box was blue,5
+4102,Very disappointed,6
+4103,"Awful experience, would not recommend",0
+4104,Standard packaging,1
+4105,"Great value, highly recommend",2
+4106,Poor service and late delivery,3
+4107,"Terrible quality, broke instantly",4
+4108,"Terrible quality, broke instantly",5
+4109,Very disappointed,6
+4110,"Terrible quality, broke instantly",0
+4111,"Great value, highly recommend",1
+4112,Received the item,2
+4113,I love this so much,3
+4114,Absolutely fantastic quality,4
+4115,Poor service and late delivery,5
+4116,Standard packaging,6
+4117,Absolutely fantastic quality,0
+4118,Very disappointed,1
+4119,"Terrible quality, broke instantly",2
+4120,Standard packaging,3
+4121,The box was blue,4
+4122,Received the item,5
+4123,"Terrible quality, broke instantly",6
+4124,Standard packaging,0
+4125,It arrived on Tuesday,1
+4126,Very disappointed,2
+4127,"Great value, highly recommend",3
+4128,Poor service and late delivery,4
+4129,Very disappointed,5
+4130,Very disappointed,6
+4131,Standard packaging,0
+4132,I love this so much,1
+4133,It arrived on Tuesday,2
+4134,"Awful experience, would not recommend",3
+4135,Poor service and late delivery,4
+4136,I love this so much,5
+4137,Very disappointed,6
+4138,"Awful experience, would not recommend",0
+4139,It arrived on Tuesday,1
+4140,Absolutely fantastic quality,2
+4141,Absolutely fantastic quality,3
+4142,Poor service and late delivery,4
+4143,"Terrible quality, broke instantly",5
+4144,I love this so much,6
+4145,I love this so much,0
+4146,"Awful experience, would not recommend",1
+4147,Excellent service!,2
+4148,"Awful experience, would not recommend",3
+4149,Excellent service!,4
+4150,Standard packaging,5
+4151,Absolutely fantastic quality,6
+4152,Very disappointed,0
+4153,Received the item,1
+4154,"Great value, highly recommend",2
+4155,The box was blue,3
+4156,Poor service and late delivery,4
+4157,"Great value, highly recommend",5
+4158,"Terrible quality, broke instantly",6
+4159,Poor service and late delivery,0
+4160,"Awful experience, would not recommend",1
+4161,"Great value, highly recommend",2
+4162,Received the item,3
+4163,It arrived on Tuesday,4
+4164,Poor service and late delivery,5
+4165,I love this so much,6
+4166,It arrived on Tuesday,0
+4167,Excellent service!,1
+4168,The box was blue,2
+4169,Received the item,3
+4170,"Terrible quality, broke instantly",4
+4171,Received the item,5
+4172,Very disappointed,6
+4173,Very disappointed,0
+4174,The box was blue,1
+4175,It arrived on Tuesday,2
+4176,It arrived on Tuesday,3
+4177,Very disappointed,4
+4178,"Awful experience, would not recommend",5
+4179,Poor service and late delivery,6
+4180,"Awful experience, would not recommend",0
+4181,Absolutely fantastic quality,1
+4182,Absolutely fantastic quality,2
+4183,It arrived on Tuesday,3
+4184,Standard packaging,4
+4185,It arrived on Tuesday,5
+4186,Excellent service!,6
+4187,Received the item,0
+4188,Very disappointed,1
+4189,"Awful experience, would not recommend",2
+4190,Received the item,3
+4191,Standard packaging,4
+4192,It arrived on Tuesday,5
+4193,Excellent service!,6
+4194,Very disappointed,0
+4195,I love this so much,1
+4196,Poor service and late delivery,2
+4197,Absolutely fantastic quality,3
+4198,Standard packaging,4
+4199,"Terrible quality, broke instantly",5
+4200,It arrived on Tuesday,6
+4201,Very disappointed,0
+4202,Received the item,1
+4203,"Terrible quality, broke instantly",2
+4204,Standard packaging,3
+4205,Very disappointed,4
+4206,The box was blue,5
+4207,I love this so much,6
+4208,"Terrible quality, broke instantly",0
+4209,Standard packaging,1
+4210,I love this so much,2
+4211,"Great value, highly recommend",3
+4212,Excellent service!,4
+4213,Very disappointed,5
+4214,Standard packaging,6
+4215,"Terrible quality, broke instantly",0
+4216,"Great value, highly recommend",1
+4217,Very disappointed,2
+4218,Excellent service!,3
+4219,Very disappointed,4
+4220,"Great value, highly recommend",5
+4221,It arrived on Tuesday,6
+4222,Standard packaging,0
+4223,"Great value, highly recommend",1
+4224,I love this so much,2
+4225,Excellent service!,3
+4226,"Great value, highly recommend",4
+4227,"Great value, highly recommend",5
+4228,It arrived on Tuesday,6
+4229,I love this so much,0
+4230,Poor service and late delivery,1
+4231,The box was blue,2
+4232,"Great value, highly recommend",3
+4233,Very disappointed,4
+4234,Poor service and late delivery,5
+4235,Very disappointed,6
+4236,The box was blue,0
+4237,I love this so much,1
+4238,"Terrible quality, broke instantly",2
+4239,Excellent service!,3
+4240,The box was blue,4
+4241,Received the item,5
+4242,Very disappointed,6
+4243,The box was blue,0
+4244,I love this so much,1
+4245,"Awful experience, would not recommend",2
+4246,"Great value, highly recommend",3
+4247,The box was blue,4
+4248,"Terrible quality, broke instantly",5
+4249,"Great value, highly recommend",6
+4250,It arrived on Tuesday,0
+4251,Excellent service!,1
+4252,The box was blue,2
+4253,I love this so much,3
+4254,The box was blue,4
+4255,Absolutely fantastic quality,5
+4256,Absolutely fantastic quality,6
+4257,I love this so much,0
+4258,It arrived on Tuesday,1
+4259,Received the item,2
+4260,Received the item,3
+4261,Excellent service!,4
+4262,The box was blue,5
+4263,Received the item,6
+4264,The box was blue,0
+4265,"Terrible quality, broke instantly",1
+4266,"Terrible quality, broke instantly",2
+4267,Received the item,3
+4268,I love this so much,4
+4269,"Awful experience, would not recommend",5
+4270,Very disappointed,6
+4271,I love this so much,0
+4272,Poor service and late delivery,1
+4273,Received the item,2
+4274,The box was blue,3
+4275,Poor service and late delivery,4
+4276,The box was blue,5
+4277,Standard packaging,6
+4278,"Terrible quality, broke instantly",0
+4279,"Awful experience, would not recommend",1
+4280,Standard packaging,2
+4281,Absolutely fantastic quality,3
+4282,Excellent service!,4
+4283,Poor service and late delivery,5
+4284,Poor service and late delivery,6
+4285,The box was blue,0
+4286,Absolutely fantastic quality,1
+4287,Standard packaging,2
+4288,I love this so much,3
+4289,It arrived on Tuesday,4
+4290,The box was blue,5
+4291,Poor service and late delivery,6
+4292,Poor service and late delivery,0
+4293,Excellent service!,1
+4294,I love this so much,2
+4295,Poor service and late delivery,3
+4296,I love this so much,4
+4297,"Awful experience, would not recommend",5
+4298,"Great value, highly recommend",6
+4299,Standard packaging,0
+4300,"Great value, highly recommend",1
+4301,"Awful experience, would not recommend",2
+4302,Very disappointed,3
+4303,I love this so much,4
+4304,"Great value, highly recommend",5
+4305,"Terrible quality, broke instantly",6
+4306,"Great value, highly recommend",0
+4307,I love this so much,1
+4308,Excellent service!,2
+4309,Poor service and late delivery,3
+4310,Poor service and late delivery,4
+4311,It arrived on Tuesday,5
+4312,Poor service and late delivery,6
+4313,I love this so much,0
+4314,Excellent service!,1
+4315,Standard packaging,2
+4316,Poor service and late delivery,3
+4317,"Great value, highly recommend",4
+4318,Standard packaging,5
+4319,I love this so much,6
+4320,Excellent service!,0
+4321,Excellent service!,1
+4322,Excellent service!,2
+4323,I love this so much,3
+4324,It arrived on Tuesday,4
+4325,It arrived on Tuesday,5
+4326,"Awful experience, would not recommend",6
+4327,The box was blue,0
+4328,"Great value, highly recommend",1
+4329,"Terrible quality, broke instantly",2
+4330,Poor service and late delivery,3
+4331,"Awful experience, would not recommend",4
+4332,"Terrible quality, broke instantly",5
+4333,Absolutely fantastic quality,6
+4334,Absolutely fantastic quality,0
+4335,"Great value, highly recommend",1
+4336,Received the item,2
+4337,"Great value, highly recommend",3
+4338,The box was blue,4
+4339,Poor service and late delivery,5
+4340,"Great value, highly recommend",6
+4341,"Terrible quality, broke instantly",0
+4342,"Great value, highly recommend",1
+4343,The box was blue,2
+4344,Poor service and late delivery,3
+4345,"Awful experience, would not recommend",4
+4346,It arrived on Tuesday,5
+4347,Received the item,6
+4348,"Awful experience, would not recommend",0
+4349,Received the item,1
+4350,I love this so much,2
+4351,I love this so much,3
+4352,It arrived on Tuesday,4
+4353,It arrived on Tuesday,5
+4354,"Terrible quality, broke instantly",6
+4355,"Terrible quality, broke instantly",0
+4356,I love this so much,1
+4357,"Awful experience, would not recommend",2
+4358,"Awful experience, would not recommend",3
+4359,Poor service and late delivery,4
+4360,The box was blue,5
+4361,Standard packaging,6
+4362,"Great value, highly recommend",0
+4363,Poor service and late delivery,1
+4364,Excellent service!,2
+4365,Received the item,3
+4366,"Great value, highly recommend",4
+4367,Absolutely fantastic quality,5
+4368,Standard packaging,6
+4369,Very disappointed,0
+4370,"Terrible quality, broke instantly",1
+4371,"Awful experience, would not recommend",2
+4372,I love this so much,3
+4373,Absolutely fantastic quality,4
+4374,Absolutely fantastic quality,5
+4375,The box was blue,6
+4376,"Great value, highly recommend",0
+4377,Received the item,1
+4378,Excellent service!,2
+4379,"Great value, highly recommend",3
+4380,"Awful experience, would not recommend",4
+4381,The box was blue,5
+4382,Standard packaging,6
+4383,Standard packaging,0
+4384,The box was blue,1
+4385,"Great value, highly recommend",2
+4386,Poor service and late delivery,3
+4387,"Terrible quality, broke instantly",4
+4388,"Awful experience, would not recommend",5
+4389,Excellent service!,6
+4390,The box was blue,0
+4391,The box was blue,1
+4392,Excellent service!,2
+4393,"Terrible quality, broke instantly",3
+4394,"Great value, highly recommend",4
+4395,Absolutely fantastic quality,5
+4396,Poor service and late delivery,6
+4397,"Terrible quality, broke instantly",0
+4398,"Terrible quality, broke instantly",1
+4399,"Great value, highly recommend",2
+4400,I love this so much,3
+4401,Excellent service!,4
+4402,It arrived on Tuesday,5
+4403,Excellent service!,6
+4404,The box was blue,0
+4405,Received the item,1
+4406,"Terrible quality, broke instantly",2
+4407,Poor service and late delivery,3
+4408,"Great value, highly recommend",4
+4409,Received the item,5
+4410,Excellent service!,6
+4411,"Awful experience, would not recommend",0
+4412,Absolutely fantastic quality,1
+4413,The box was blue,2
+4414,"Awful experience, would not recommend",3
+4415,"Awful experience, would not recommend",4
+4416,The box was blue,5
+4417,Absolutely fantastic quality,6
+4418,Absolutely fantastic quality,0
+4419,It arrived on Tuesday,1
+4420,Standard packaging,2
+4421,Very disappointed,3
+4422,"Terrible quality, broke instantly",4
+4423,I love this so much,5
+4424,"Terrible quality, broke instantly",6
+4425,I love this so much,0
+4426,"Terrible quality, broke instantly",1
+4427,"Great value, highly recommend",2
+4428,Excellent service!,3
+4429,Very disappointed,4
+4430,Received the item,5
+4431,Poor service and late delivery,6
+4432,"Awful experience, would not recommend",0
+4433,"Terrible quality, broke instantly",1
+4434,The box was blue,2
+4435,Absolutely fantastic quality,3
+4436,Poor service and late delivery,4
+4437,The box was blue,5
+4438,Received the item,6
+4439,I love this so much,0
+4440,Received the item,1
+4441,Standard packaging,2
+4442,Very disappointed,3
+4443,Standard packaging,4
+4444,Poor service and late delivery,5
+4445,"Terrible quality, broke instantly",6
+4446,Received the item,0
+4447,It arrived on Tuesday,1
+4448,Poor service and late delivery,2
+4449,"Great value, highly recommend",3
+4450,It arrived on Tuesday,4
+4451,Received the item,5
+4452,I love this so much,6
+4453,Excellent service!,0
+4454,Standard packaging,1
+4455,Standard packaging,2
+4456,Very disappointed,3
+4457,The box was blue,4
+4458,It arrived on Tuesday,5
+4459,"Terrible quality, broke instantly",6
+4460,Standard packaging,0
+4461,"Great value, highly recommend",1
+4462,Standard packaging,2
+4463,Poor service and late delivery,3
+4464,It arrived on Tuesday,4
+4465,Absolutely fantastic quality,5
+4466,"Great value, highly recommend",6
+4467,Excellent service!,0
+4468,Received the item,1
+4469,Excellent service!,2
+4470,"Terrible quality, broke instantly",3
+4471,"Awful experience, would not recommend",4
+4472,It arrived on Tuesday,5
+4473,"Awful experience, would not recommend",6
+4474,"Terrible quality, broke instantly",0
+4475,Very disappointed,1
+4476,Received the item,2
+4477,Poor service and late delivery,3
+4478,Received the item,4
+4479,Very disappointed,5
+4480,"Great value, highly recommend",6
+4481,"Awful experience, would not recommend",0
+4482,Excellent service!,1
+4483,The box was blue,2
+4484,It arrived on Tuesday,3
+4485,Excellent service!,4
+4486,Excellent service!,5
+4487,Very disappointed,6
+4488,I love this so much,0
+4489,"Great value, highly recommend",1
+4490,The box was blue,2
+4491,It arrived on Tuesday,3
+4492,Standard packaging,4
+4493,The box was blue,5
+4494,The box was blue,6
+4495,Absolutely fantastic quality,0
+4496,"Awful experience, would not recommend",1
+4497,Poor service and late delivery,2
+4498,"Awful experience, would not recommend",3
+4499,Excellent service!,4
+4500,Received the item,5
+4501,I love this so much,6
+4502,Standard packaging,0
+4503,"Awful experience, would not recommend",1
+4504,Very disappointed,2
+4505,"Great value, highly recommend",3
+4506,"Terrible quality, broke instantly",4
+4507,The box was blue,5
+4508,Absolutely fantastic quality,6
+4509,Poor service and late delivery,0
+4510,Excellent service!,1
+4511,Absolutely fantastic quality,2
+4512,"Great value, highly recommend",3
+4513,Standard packaging,4
+4514,"Great value, highly recommend",5
+4515,It arrived on Tuesday,6
+4516,Excellent service!,0
+4517,Received the item,1
+4518,"Great value, highly recommend",2
+4519,"Terrible quality, broke instantly",3
+4520,Absolutely fantastic quality,4
+4521,"Awful experience, would not recommend",5
+4522,The box was blue,6
+4523,"Great value, highly recommend",0
+4524,Standard packaging,1
+4525,Poor service and late delivery,2
+4526,Absolutely fantastic quality,3
+4527,"Great value, highly recommend",4
+4528,It arrived on Tuesday,5
+4529,Poor service and late delivery,6
+4530,I love this so much,0
+4531,Excellent service!,1
+4532,Absolutely fantastic quality,2
+4533,"Terrible quality, broke instantly",3
+4534,Absolutely fantastic quality,4
+4535,"Great value, highly recommend",5
+4536,I love this so much,6
+4537,Standard packaging,0
+4538,I love this so much,1
+4539,"Awful experience, would not recommend",2
+4540,"Terrible quality, broke instantly",3
+4541,Received the item,4
+4542,It arrived on Tuesday,5
+4543,It arrived on Tuesday,6
+4544,Excellent service!,0
+4545,"Great value, highly recommend",1
+4546,Absolutely fantastic quality,2
+4547,It arrived on Tuesday,3
+4548,Standard packaging,4
+4549,Excellent service!,5
+4550,Excellent service!,6
+4551,Absolutely fantastic quality,0
+4552,Absolutely fantastic quality,1
+4553,Absolutely fantastic quality,2
+4554,"Terrible quality, broke instantly",3
+4555,I love this so much,4
+4556,"Great value, highly recommend",5
+4557,Very disappointed,6
+4558,I love this so much,0
+4559,"Great value, highly recommend",1
+4560,I love this so much,2
+4561,Absolutely fantastic quality,3
+4562,Poor service and late delivery,4
+4563,"Terrible quality, broke instantly",5
+4564,I love this so much,6
+4565,Absolutely fantastic quality,0
+4566,"Terrible quality, broke instantly",1
+4567,I love this so much,2
+4568,Standard packaging,3
+4569,Poor service and late delivery,4
+4570,Poor service and late delivery,5
+4571,Received the item,6
+4572,Absolutely fantastic quality,0
+4573,Excellent service!,1
+4574,"Great value, highly recommend",2
+4575,Poor service and late delivery,3
+4576,Received the item,4
+4577,Poor service and late delivery,5
+4578,I love this so much,6
+4579,Very disappointed,0
+4580,Poor service and late delivery,1
+4581,Absolutely fantastic quality,2
+4582,"Great value, highly recommend",3
+4583,Received the item,4
+4584,It arrived on Tuesday,5
+4585,It arrived on Tuesday,6
+4586,The box was blue,0
+4587,"Terrible quality, broke instantly",1
+4588,"Awful experience, would not recommend",2
+4589,Received the item,3
+4590,"Great value, highly recommend",4
+4591,Standard packaging,5
+4592,"Great value, highly recommend",6
+4593,Very disappointed,0
+4594,"Great value, highly recommend",1
+4595,I love this so much,2
+4596,"Great value, highly recommend",3
+4597,Received the item,4
+4598,Standard packaging,5
+4599,Excellent service!,6
+4600,The box was blue,0
+4601,Excellent service!,1
+4602,"Terrible quality, broke instantly",2
+4603,Absolutely fantastic quality,3
+4604,Very disappointed,4
+4605,"Great value, highly recommend",5
+4606,Poor service and late delivery,6
+4607,Received the item,0
+4608,It arrived on Tuesday,1
+4609,Very disappointed,2
+4610,It arrived on Tuesday,3
+4611,It arrived on Tuesday,4
+4612,Received the item,5
+4613,"Great value, highly recommend",6
+4614,The box was blue,0
+4615,I love this so much,1
+4616,Poor service and late delivery,2
+4617,The box was blue,3
+4618,I love this so much,4
+4619,It arrived on Tuesday,5
+4620,Received the item,6
+4621,"Terrible quality, broke instantly",0
+4622,"Terrible quality, broke instantly",1
+4623,Excellent service!,2
+4624,It arrived on Tuesday,3
+4625,"Awful experience, would not recommend",4
+4626,"Great value, highly recommend",5
+4627,I love this so much,6
+4628,"Awful experience, would not recommend",0
+4629,I love this so much,1
+4630,Received the item,2
+4631,Standard packaging,3
+4632,"Awful experience, would not recommend",4
+4633,"Great value, highly recommend",5
+4634,I love this so much,6
+4635,Excellent service!,0
+4636,"Great value, highly recommend",1
+4637,"Great value, highly recommend",2
+4638,Excellent service!,3
+4639,"Terrible quality, broke instantly",4
+4640,"Awful experience, would not recommend",5
+4641,I love this so much,6
+4642,Excellent service!,0
+4643,Received the item,1
+4644,"Great value, highly recommend",2
+4645,"Awful experience, would not recommend",3
+4646,"Awful experience, would not recommend",4
+4647,Standard packaging,5
+4648,Standard packaging,6
+4649,"Awful experience, would not recommend",0
+4650,Standard packaging,1
+4651,Standard packaging,2
+4652,"Awful experience, would not recommend",3
+4653,Absolutely fantastic quality,4
+4654,Received the item,5
+4655,Received the item,6
+4656,"Great value, highly recommend",0
+4657,It arrived on Tuesday,1
+4658,Standard packaging,2
+4659,I love this so much,3
+4660,Excellent service!,4
+4661,"Great value, highly recommend",5
+4662,Excellent service!,6
+4663,The box was blue,0
+4664,"Awful experience, would not recommend",1
+4665,Excellent service!,2
+4666,"Great value, highly recommend",3
+4667,It arrived on Tuesday,4
+4668,Poor service and late delivery,5
+4669,The box was blue,6
+4670,It arrived on Tuesday,0
+4671,Very disappointed,1
+4672,It arrived on Tuesday,2
+4673,It arrived on Tuesday,3
+4674,Very disappointed,4
+4675,Excellent service!,5
+4676,"Great value, highly recommend",6
+4677,It arrived on Tuesday,0
+4678,"Awful experience, would not recommend",1
+4679,Very disappointed,2
+4680,The box was blue,3
+4681,It arrived on Tuesday,4
+4682,Standard packaging,5
+4683,It arrived on Tuesday,6
+4684,Very disappointed,0
+4685,Received the item,1
+4686,Poor service and late delivery,2
+4687,I love this so much,3
+4688,It arrived on Tuesday,4
+4689,"Awful experience, would not recommend",5
+4690,"Terrible quality, broke instantly",6
+4691,Standard packaging,0
+4692,I love this so much,1
+4693,It arrived on Tuesday,2
+4694,Very disappointed,3
+4695,The box was blue,4
+4696,I love this so much,5
+4697,Standard packaging,6
+4698,I love this so much,0
+4699,The box was blue,1
+4700,Standard packaging,2
+4701,Absolutely fantastic quality,3
+4702,Absolutely fantastic quality,4
+4703,Received the item,5
+4704,Standard packaging,6
+4705,Very disappointed,0
+4706,Very disappointed,1
+4707,I love this so much,2
+4708,"Terrible quality, broke instantly",3
+4709,It arrived on Tuesday,4
+4710,"Great value, highly recommend",5
+4711,Poor service and late delivery,6
+4712,Absolutely fantastic quality,0
+4713,"Awful experience, would not recommend",1
+4714,"Great value, highly recommend",2
+4715,"Awful experience, would not recommend",3
+4716,"Great value, highly recommend",4
+4717,"Great value, highly recommend",5
+4718,"Awful experience, would not recommend",6
+4719,Poor service and late delivery,0
+4720,"Awful experience, would not recommend",1
+4721,It arrived on Tuesday,2
+4722,Received the item,3
+4723,"Awful experience, would not recommend",4
+4724,Received the item,5
+4725,"Terrible quality, broke instantly",6
+4726,I love this so much,0
+4727,Standard packaging,1
+4728,"Terrible quality, broke instantly",2
+4729,"Awful experience, would not recommend",3
+4730,Received the item,4
+4731,It arrived on Tuesday,5
+4732,"Awful experience, would not recommend",6
+4733,Poor service and late delivery,0
+4734,Poor service and late delivery,1
+4735,Very disappointed,2
+4736,Poor service and late delivery,3
+4737,Absolutely fantastic quality,4
+4738,I love this so much,5
+4739,Received the item,6
+4740,I love this so much,0
+4741,The box was blue,1
+4742,"Terrible quality, broke instantly",2
+4743,"Awful experience, would not recommend",3
+4744,Received the item,4
+4745,Excellent service!,5
+4746,Received the item,6
+4747,Received the item,0
+4748,Very disappointed,1
+4749,Absolutely fantastic quality,2
+4750,"Awful experience, would not recommend",3
+4751,Very disappointed,4
+4752,"Great value, highly recommend",5
+4753,"Great value, highly recommend",6
+4754,Very disappointed,0
+4755,"Great value, highly recommend",1
+4756,The box was blue,2
+4757,It arrived on Tuesday,3
+4758,Received the item,4
+4759,Standard packaging,5
+4760,The box was blue,6
+4761,Standard packaging,0
+4762,Poor service and late delivery,1
+4763,It arrived on Tuesday,2
+4764,It arrived on Tuesday,3
+4765,The box was blue,4
+4766,The box was blue,5
+4767,"Awful experience, would not recommend",6
+4768,Very disappointed,0
+4769,Absolutely fantastic quality,1
+4770,Absolutely fantastic quality,2
+4771,The box was blue,3
+4772,Very disappointed,4
+4773,I love this so much,5
+4774,Poor service and late delivery,6
+4775,Received the item,0
+4776,"Terrible quality, broke instantly",1
+4777,Received the item,2
+4778,It arrived on Tuesday,3
+4779,"Terrible quality, broke instantly",4
+4780,Excellent service!,5
+4781,"Great value, highly recommend",6
+4782,Standard packaging,0
+4783,Very disappointed,1
+4784,Absolutely fantastic quality,2
+4785,I love this so much,3
+4786,"Awful experience, would not recommend",4
+4787,Received the item,5
+4788,Excellent service!,6
+4789,Absolutely fantastic quality,0
+4790,"Great value, highly recommend",1
+4791,Standard packaging,2
+4792,Very disappointed,3
+4793,The box was blue,4
+4794,The box was blue,5
+4795,Poor service and late delivery,6
+4796,The box was blue,0
+4797,"Great value, highly recommend",1
+4798,Standard packaging,2
+4799,Very disappointed,3
+4800,I love this so much,4
+4801,Absolutely fantastic quality,5
+4802,Very disappointed,6
+4803,I love this so much,0
+4804,Excellent service!,1
+4805,"Awful experience, would not recommend",2
+4806,The box was blue,3
+4807,Very disappointed,4
+4808,I love this so much,5
+4809,Absolutely fantastic quality,6
+4810,"Awful experience, would not recommend",0
+4811,I love this so much,1
+4812,Poor service and late delivery,2
+4813,It arrived on Tuesday,3
+4814,Poor service and late delivery,4
+4815,Received the item,5
+4816,"Terrible quality, broke instantly",6
+4817,It arrived on Tuesday,0
+4818,Standard packaging,1
+4819,"Great value, highly recommend",2
+4820,Excellent service!,3
+4821,"Terrible quality, broke instantly",4
+4822,"Awful experience, would not recommend",5
+4823,"Terrible quality, broke instantly",6
+4824,Absolutely fantastic quality,0
+4825,"Terrible quality, broke instantly",1
+4826,It arrived on Tuesday,2
+4827,Absolutely fantastic quality,3
+4828,"Terrible quality, broke instantly",4
+4829,Poor service and late delivery,5
+4830,"Awful experience, would not recommend",6
+4831,Excellent service!,0
+4832,It arrived on Tuesday,1
+4833,Excellent service!,2
+4834,Absolutely fantastic quality,3
+4835,Excellent service!,4
+4836,Excellent service!,5
+4837,I love this so much,6
+4838,Poor service and late delivery,0
+4839,Excellent service!,1
+4840,Poor service and late delivery,2
+4841,"Terrible quality, broke instantly",3
+4842,Poor service and late delivery,4
+4843,Very disappointed,5
+4844,It arrived on Tuesday,6
+4845,Standard packaging,0
+4846,"Awful experience, would not recommend",1
+4847,Received the item,2
+4848,I love this so much,3
+4849,"Great value, highly recommend",4
+4850,"Terrible quality, broke instantly",5
+4851,Poor service and late delivery,6
+4852,Poor service and late delivery,0
+4853,Standard packaging,1
+4854,The box was blue,2
+4855,I love this so much,3
+4856,Excellent service!,4
+4857,"Terrible quality, broke instantly",5
+4858,"Awful experience, would not recommend",6
+4859,I love this so much,0
+4860,"Awful experience, would not recommend",1
+4861,Absolutely fantastic quality,2
+4862,Received the item,3
+4863,"Terrible quality, broke instantly",4
+4864,Very disappointed,5
+4865,"Terrible quality, broke instantly",6
+4866,Poor service and late delivery,0
+4867,The box was blue,1
+4868,The box was blue,2
+4869,"Terrible quality, broke instantly",3
+4870,Poor service and late delivery,4
+4871,"Terrible quality, broke instantly",5
+4872,Poor service and late delivery,6
+4873,Standard packaging,0
+4874,I love this so much,1
+4875,"Awful experience, would not recommend",2
+4876,Received the item,3
+4877,Excellent service!,4
+4878,Excellent service!,5
+4879,Absolutely fantastic quality,6
+4880,The box was blue,0
+4881,Received the item,1
+4882,Received the item,2
+4883,It arrived on Tuesday,3
+4884,Received the item,4
+4885,Excellent service!,5
+4886,Received the item,6
+4887,Received the item,0
+4888,Absolutely fantastic quality,1
+4889,Standard packaging,2
+4890,Very disappointed,3
+4891,Absolutely fantastic quality,4
+4892,I love this so much,5
+4893,"Great value, highly recommend",6
+4894,I love this so much,0
+4895,"Awful experience, would not recommend",1
+4896,"Great value, highly recommend",2
+4897,Very disappointed,3
+4898,"Great value, highly recommend",4
+4899,Excellent service!,5
+4900,"Awful experience, would not recommend",6
+4901,"Terrible quality, broke instantly",0
+4902,I love this so much,1
+4903,"Terrible quality, broke instantly",2
+4904,Poor service and late delivery,3
+4905,The box was blue,4
+4906,"Awful experience, would not recommend",5
+4907,The box was blue,6
+4908,Absolutely fantastic quality,0
+4909,Excellent service!,1
+4910,"Great value, highly recommend",2
+4911,It arrived on Tuesday,3
+4912,Very disappointed,4
+4913,Excellent service!,5
+4914,Received the item,6
+4915,Absolutely fantastic quality,0
+4916,Excellent service!,1
+4917,I love this so much,2
+4918,Standard packaging,3
+4919,"Terrible quality, broke instantly",4
+4920,Absolutely fantastic quality,5
+4921,I love this so much,6
+4922,"Terrible quality, broke instantly",0
+4923,Absolutely fantastic quality,1
+4924,It arrived on Tuesday,2
+4925,"Terrible quality, broke instantly",3
+4926,"Great value, highly recommend",4
+4927,It arrived on Tuesday,5
+4928,Poor service and late delivery,6
+4929,"Great value, highly recommend",0
+4930,It arrived on Tuesday,1
+4931,It arrived on Tuesday,2
+4932,Excellent service!,3
+4933,Absolutely fantastic quality,4
+4934,"Awful experience, would not recommend",5
+4935,Absolutely fantastic quality,6
+4936,It arrived on Tuesday,0
+4937,Absolutely fantastic quality,1
+4938,It arrived on Tuesday,2
+4939,It arrived on Tuesday,3
+4940,Standard packaging,4
+4941,"Great value, highly recommend",5
+4942,Standard packaging,6
+4943,"Awful experience, would not recommend",0
+4944,Poor service and late delivery,1
+4945,Very disappointed,2
+4946,Absolutely fantastic quality,3
+4947,It arrived on Tuesday,4
+4948,"Great value, highly recommend",5
+4949,"Terrible quality, broke instantly",6
+4950,It arrived on Tuesday,0
+4951,Received the item,1
+4952,"Terrible quality, broke instantly",2
+4953,"Awful experience, would not recommend",3
+4954,Standard packaging,4
+4955,The box was blue,5
+4956,Absolutely fantastic quality,6
+4957,Standard packaging,0
+4958,"Terrible quality, broke instantly",1
+4959,Very disappointed,2
+4960,It arrived on Tuesday,3
+4961,"Terrible quality, broke instantly",4
+4962,Poor service and late delivery,5
+4963,Standard packaging,6
+4964,Poor service and late delivery,0
+4965,Absolutely fantastic quality,1
+4966,The box was blue,2
+4967,Standard packaging,3
+4968,"Terrible quality, broke instantly",4
+4969,It arrived on Tuesday,5
+4970,"Great value, highly recommend",6
+4971,I love this so much,0
+4972,"Awful experience, would not recommend",1
+4973,Received the item,2
+4974,The box was blue,3
+4975,Poor service and late delivery,4
+4976,Poor service and late delivery,5
+4977,"Awful experience, would not recommend",6
+4978,Received the item,0
+4979,"Great value, highly recommend",1
+4980,Very disappointed,2
+4981,"Terrible quality, broke instantly",3
+4982,"Awful experience, would not recommend",4
+4983,"Terrible quality, broke instantly",5
+4984,Standard packaging,6
+4985,The box was blue,0
+4986,Received the item,1
+4987,I love this so much,2
+4988,Standard packaging,3
+4989,The box was blue,4
+4990,"Great value, highly recommend",5
+4991,Poor service and late delivery,6
+4992,"Great value, highly recommend",0
+4993,Poor service and late delivery,1
+4994,Received the item,2
+4995,Very disappointed,3
+4996,"Terrible quality, broke instantly",4
+4997,I love this so much,5
+4998,"Great value, highly recommend",6
+4999,It arrived on Tuesday,0
+5000,Absolutely fantastic quality,1

@@ -1,0 +1,388 @@
+{% extends "base.html" %}
+{% block title %}Analyze Content — Sentiment Lab{% endblock %}
+
+{% block header_extra %}
+<div class="engine-chips">
+  <span class="chip"><span class="dot dot--on"></span>VADER · English</span>
+  <span class="chip" id="chip-multilingual">
+    <span class="dot" id="dot-multilingual"></span>Multilingual · checking
+  </span>
+  <span class="chip">
+    <span class="dot {{ 'dot--on' if youtube_ready else 'dot--off' }}"></span>
+    YouTube API · {{ 'ready' if youtube_ready else 'no key' }}
+  </span>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="page-head">
+  <p class="eyebrow">Unified content intelligence</p>
+  <h1>Analyze Content</h1>
+  <p>
+    One pipeline for four sources. English text is scored with VADER; Hindi,
+    Hinglish and uncertain text is routed to a multilingual model, and every
+    result is normalised into the same dashboard.
+  </p>
+</div>
+
+<!-- ============================================================ SOURCE -->
+<section class="card" aria-labelledby="source-heading">
+  <div class="card__head">
+    <h2 id="source-heading">Choose source</h2>
+    <span class="card__hint">The input below changes with your selection.</span>
+  </div>
+  <div class="card__body">
+    <div class="sources" role="tablist" aria-label="Content source">
+      <button class="source-btn" role="tab" type="button" id="tab-text"
+              data-source="text" aria-selected="false" aria-controls="panel-text">
+        <span class="source-btn__icon" aria-hidden="true">✍️</span>
+        <span class="source-btn__label">Text</span>
+        <span class="source-btn__meta">Paste anything</span>
+      </button>
+      <button class="source-btn" role="tab" type="button" id="tab-dataset"
+              data-source="dataset" aria-selected="false" aria-controls="panel-dataset">
+        <span class="source-btn__icon" aria-hidden="true">📁</span>
+        <span class="source-btn__label">Dataset</span>
+        <span class="source-btn__meta">Upload a CSV</span>
+      </button>
+      <button class="source-btn" role="tab" type="button" id="tab-youtube"
+              data-source="youtube" aria-selected="false" aria-controls="panel-youtube">
+        <span class="source-btn__icon" aria-hidden="true">▶️</span>
+        <span class="source-btn__label">YouTube</span>
+        <span class="source-btn__meta">Video comments</span>
+      </button>
+      <button class="source-btn" role="tab" type="button" id="tab-blog"
+              data-source="blog" aria-selected="false" aria-controls="panel-blog">
+        <span class="source-btn__icon" aria-hidden="true">🌐</span>
+        <span class="source-btn__label">Blog</span>
+        <span class="source-btn__meta">Article comments</span>
+      </button>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================= INPUT -->
+<section class="card" aria-labelledby="input-heading">
+  <div class="card__head">
+    <h2 id="input-heading">Input</h2>
+    <span class="card__hint" id="input-hint"></span>
+  </div>
+  <div class="card__body">
+
+    <!-- ---------------------------------------------------------- TEXT -->
+    <div id="panel-text" role="tabpanel" aria-labelledby="tab-text" hidden>
+      <div class="field">
+        <label for="text-input">Enter text to analyze</label>
+        <textarea id="text-input" placeholder="I absolutely love this product!"
+                  aria-describedby="text-help"></textarea>
+        <p class="help" id="text-help">
+          Works with English, Hindi (Devanagari) and Hinglish. Emojis,
+          capitalisation and punctuation are preserved because they carry
+          sentiment signal.
+        </p>
+      </div>
+      <div class="actions">
+        <button class="btn" id="btn-text" type="button">Analyze Sentiment</button>
+        <button class="btn btn--ghost btn--sm" id="btn-text-sample" type="button">
+          Try an example
+        </button>
+      </div>
+    </div>
+
+    <!-- ------------------------------------------------------- DATASET -->
+    <div id="panel-dataset" role="tabpanel" aria-labelledby="tab-dataset" hidden>
+      <div class="field">
+        <span class="label">Upload a CSV</span>
+        <div class="drop" id="drop" tabindex="0" role="button"
+             aria-label="Choose a CSV file to upload">
+          <div class="drop__icon" aria-hidden="true">📁</div>
+          <div class="drop__title">Drop a CSV here, or click to browse</div>
+          <div class="drop__hint">
+            Any columns are fine — up to {{ max_upload_mb }} MB. Your original
+            columns are always preserved.
+          </div>
+        </div>
+        <input type="file" id="file-input" accept=".csv,text/csv"
+               class="visually-hidden">
+        <div id="file-pill" class="file-pill" hidden>
+          <span id="file-name"></span>
+          <button class="btn btn--ghost btn--sm" id="btn-file-clear" type="button">
+            Remove
+          </button>
+        </div>
+      </div>
+
+      <div id="dataset-config" hidden>
+        <div class="row">
+          <div class="field">
+            <label for="dataset-column">Select text column</label>
+            <select id="dataset-column"></select>
+            <p class="help" id="dataset-column-help"></p>
+          </div>
+          <div class="field">
+            <label for="dataset-rows">Rows to analyze</label>
+            <select id="dataset-rows"></select>
+            <p class="help" id="dataset-rows-help"></p>
+          </div>
+        </div>
+        <div class="actions">
+          <button class="btn" id="btn-dataset" type="button">Analyze Dataset</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ------------------------------------------------------- YOUTUBE -->
+    <div id="panel-youtube" role="tabpanel" aria-labelledby="tab-youtube" hidden>
+      {% if not youtube_ready %}
+      <div class="alert alert--warn" style="margin-top:0;">
+        <span class="alert__icon" aria-hidden="true">!</span>
+        <span>
+          <strong>No YouTube API key configured.</strong> Copy
+          <code>.env.example</code> to <code>.env</code>, set
+          <code>YOUTUBE_API_KEY</code>, and restart the app. The key stays on
+          the server and is never sent to the browser.
+        </span>
+      </div>
+      {% endif %}
+      <div class="field">
+        <label for="yt-url">YouTube video URL</label>
+        <input type="url" id="yt-url"
+               placeholder="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+               aria-describedby="yt-help">
+        <p class="help" id="yt-help">
+          Accepts <code>watch?v=</code>, <code>youtu.be/</code> and
+          <code>/shorts/</code> links. Comments are read through the official
+          YouTube Data API v3.
+        </p>
+      </div>
+      <div class="row">
+        <div class="field">
+          <label for="yt-limit">Comments to analyze</label>
+          <select id="yt-limit">
+            {% for choice in youtube_choices %}
+            <option value="{{ choice }}" {% if choice == 100 %}selected{% endif %}>
+              {{ "{:,}".format(choice) }}
+            </option>
+            {% endfor %}
+            <option value="all">All available (max {{ "{:,}".format(youtube_hard_limit) }})</option>
+          </select>
+          <p class="help">Each 100 comments costs 1 unit of your daily API quota.</p>
+        </div>
+        <div class="field">
+          <label for="yt-order">Order</label>
+          <select id="yt-order">
+            <option value="relevance" selected>Top comments</option>
+            <option value="time">Newest first</option>
+          </select>
+          <p class="help">
+            <label style="display:flex;gap:8px;align-items:center;font-weight:400;margin:6px 0 0;">
+              <input type="checkbox" id="yt-replies" checked style="width:auto;">
+              Include replies
+            </label>
+          </p>
+        </div>
+      </div>
+      <div class="actions">
+        <button class="btn" id="btn-youtube" type="button"
+                {% if not youtube_ready %}disabled{% endif %}>
+          Analyze YouTube Comments
+        </button>
+      </div>
+    </div>
+
+    <!-- ---------------------------------------------------------- BLOG -->
+    <div id="panel-blog" role="tabpanel" aria-labelledby="tab-blog" hidden>
+      <div class="field">
+        <label for="blog-url">Blog / article URL</label>
+        <input type="url" id="blog-url" placeholder="https://example.com/article"
+               aria-describedby="blog-help">
+        <p class="help" id="blog-help">
+          Tries the WordPress REST API first, then schema.org structured data,
+          then standard HTML comment markup. <code>robots.txt</code> and
+          crawl-delay are respected, and logins, paywalls and anti-bot
+          protection are never bypassed.
+        </p>
+      </div>
+      <div class="field" style="max-width:260px;">
+        <label for="blog-limit">Maximum comments</label>
+        <select id="blog-limit">
+          <option value="100">100</option>
+          <option value="500" selected>500</option>
+          <option value="2000">2,000</option>
+        </select>
+      </div>
+      <div class="actions">
+        <button class="btn" id="btn-blog" type="button">Analyze Blog Comments</button>
+      </div>
+    </div>
+
+    <!-- shared feedback -->
+    <div class="alert alert--error" id="alert" role="alert" hidden>
+      <span class="alert__icon" aria-hidden="true">!</span>
+      <span id="alert-text"></span>
+    </div>
+
+    <div class="progress" id="progress" hidden aria-live="polite">
+      <div class="progress__label">
+        <span id="progress-stage">Working…</span>
+        <span class="num" id="progress-count"></span>
+      </div>
+      <div class="progress__track">
+        <div class="progress__bar" id="progress-bar"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================================================== RESULTS -->
+<section id="results-empty" class="card">
+  <div class="empty">
+    <div class="empty__icon" aria-hidden="true">◍</div>
+    <div class="empty__title">No analysis yet</div>
+    <p>Pick a source, provide some content, and the dashboard appears here.</p>
+  </div>
+</section>
+
+<div id="results" hidden>
+  <!-- single-text verdict -->
+  <section class="card" id="single-card" hidden aria-labelledby="single-heading">
+    <div class="card__head">
+      <h2 id="single-heading">Result</h2>
+      <span class="card__hint" id="single-engine"></span>
+    </div>
+    <div class="card__body">
+      <div class="verdict">
+        <span class="verdict__badge" id="single-label">—</span>
+        <div class="verdict__score" id="single-score">
+          <small id="single-score-label">Compound</small>
+          <span id="single-score-value">0.00</span>
+        </div>
+      </div>
+      <div class="meta-list" id="single-meta"></div>
+      <div style="margin-top:22px;" class="bars" id="single-bars"></div>
+      <div class="alert alert--info" id="single-note" hidden>
+        <span class="alert__icon" aria-hidden="true">i</span>
+        <span id="single-note-text"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- summary -->
+  <section class="card" id="summary-card" hidden aria-labelledby="summary-heading">
+    <div class="card__head">
+      <h2 id="summary-heading">Summary</h2>
+      <span class="card__hint" id="summary-context"></span>
+    </div>
+    <div class="card__body">
+      <div class="kpis" id="kpis"></div>
+      <div class="alert alert--info" id="summary-note" hidden>
+        <span class="alert__icon" aria-hidden="true">i</span>
+        <span id="summary-note-text"></span>
+      </div>
+    </div>
+  </section>
+
+  <!-- charts -->
+  <section class="card" id="charts-card" hidden aria-labelledby="charts-heading">
+    <div class="card__head">
+      <h2 id="charts-heading">Sentiment distribution &amp; scores</h2>
+      <span class="card__hint">
+        VADER compound and model confidence are reported separately.
+      </span>
+    </div>
+    <div class="card__body">
+      <div class="charts">
+        <div>
+          <h3 style="font-size:13px;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-muted);margin-bottom:14px;">
+            Distribution
+          </h3>
+          <div class="donut" id="donut"></div>
+        </div>
+        <div>
+          <h3 style="font-size:13px;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-muted);margin-bottom:14px;">
+            Score analysis
+          </h3>
+          <div class="bars" id="score-bars"></div>
+          <div class="gauge" id="gauge" style="margin-top:22px;"></div>
+          <div id="language-breakdown" style="margin-top:24px;"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- table -->
+  <section class="card" id="table-card" hidden aria-labelledby="table-heading">
+    <div class="card__head">
+      <h2 id="table-heading">Results</h2>
+      <span class="card__hint" id="table-hint"></span>
+    </div>
+
+    <div class="filters" id="filters">
+      <div>
+        <label for="f-search">Search</label>
+        <input type="text" id="f-search" placeholder="Filter by text or author…">
+      </div>
+      <div>
+        <label for="f-sentiment">Sentiment</label>
+        <select id="f-sentiment">
+          <option value="">All</option>
+          <option value="POSITIVE">Positive</option>
+          <option value="NEUTRAL">Neutral</option>
+          <option value="NEGATIVE">Negative</option>
+          <option value="UNSCORED">Unscored</option>
+        </select>
+      </div>
+      <div>
+        <label for="f-language">Language</label>
+        <select id="f-language">
+          <option value="">All</option>
+        </select>
+      </div>
+      <div id="f-likes-wrap" hidden>
+        <label for="f-likes">Minimum likes</label>
+        <input type="number" id="f-likes" min="0" step="1" placeholder="0">
+      </div>
+      <div id="f-from-wrap" hidden>
+        <label for="f-from">Published from</label>
+        <input type="date" id="f-from">
+      </div>
+      <div id="f-to-wrap" hidden>
+        <label for="f-to">Published to</label>
+        <input type="date" id="f-to">
+      </div>
+    </div>
+
+    <div class="table-wrap" id="table-wrap">
+      <div class="table-scroll" id="table-scroll" tabindex="0"
+           role="region" aria-label="Results table, scrollable horizontally">
+        <table id="results-table">
+          <thead><tr id="table-head"></tr></thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="table-foot">
+      <span id="table-count" aria-live="polite"></span>
+      <div class="pager">
+        <button class="btn btn--ghost btn--sm" id="page-prev" type="button">Previous</button>
+        <span class="num" id="page-label">1 / 1</span>
+        <button class="btn btn--ghost btn--sm" id="page-next" type="button">Next</button>
+        <a class="btn btn--sm" id="btn-download" href="#" download>Download Results CSV</a>
+      </div>
+    </div>
+  </section>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  window.SENTIMENT_LAB = {
+    initialSource: {{ active_source|tojson }},
+    youtubeReady: {{ youtube_ready|tojson }},
+    multilingualModel: {{ multilingual_model|tojson }},
+    multilingualEnabled: {{ multilingual_enabled|tojson }}
+  };
+</script>
+<script src="{{ url_for('static', filename='js/analyze.js') }}"></script>
+{% endblock %}

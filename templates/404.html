@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}{{ code|default(404) }} — Sentiment Lab{% endblock %}
+
+{% block content %}
+<div class="error-page">
+  <div class="error-page__code num">{{ code|default(404) }}</div>
+  <h1>{{ message|default("That page doesn't exist.") }}</h1>
+  <p style="color:var(--ink-muted);margin-top:10px;">
+    Everything happens on the unified analysis page.
+  </p>
+  <div style="margin-top:24px;">
+    <a class="btn" href="{{ url_for('analyze_page') }}">Go to Analyze</a>
+  </div>
+</div>
+{% endblock %}

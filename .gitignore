@@ -1,0 +1,31 @@
+# Secrets — never commit these
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Runtime data
+uploads/
+!uploads/.gitkeep
+results/
+!results/.gitkeep
+
+# Model cache
+.cache/
+*.pt
+*.bin
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,8 @@
+id,product,review_text,rating,date
+1,Widget,"I love this.",5,2026-01-01
+2,Widget,"This is okay.",3,2026-01-02
+3,Widget,"This is terrible.",1,2026-01-03
+4,Gadget,,4,2026-01-04
+5,Gadget,"बहुत अच्छा product है।",5,2026-01-05
+6,Gadget,"Bhai kya hi service hai yaar",2,2026-01-06
+7,Gadget,"Excellent service and fantastic experience!",5,2026-01-07

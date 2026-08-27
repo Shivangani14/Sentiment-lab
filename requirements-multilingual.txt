@@ -1,0 +1,13 @@
+# Optional: multilingual (Hindi / Hinglish / mixed) sentiment support.
+#
+#   pip install -r requirements-multilingual.txt
+#
+# Installs ~2 GB (PyTorch wheels, plus the model itself on first use). The
+# model is downloaded lazily on the first non-English input and cached in
+# ~/.cache/huggingface — never at application start-up.
+#
+# Ranges rather than exact pins so pip resolves a wheel that matches your
+# interpreter. On Python 3.12 this resolves to torch 2.4.x+ / transformers
+# 4.44.x+, both of which are fully supported.
+transformers>=4.44,<5
+torch>=2.2,<3
