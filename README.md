@@ -4,6 +4,12 @@ A Flask web app that runs **one sentiment pipeline over four content
 sources** — pasted text, uploaded CSV datasets, YouTube video comments, and
 blog/article comments — with language-aware model routing.
 
+# Sentiment Lab
+
+## 🚀 Live Demo
+
+[Open Sentiment Lab](https://sentiment-lab.onrender.com)
+
 English text is scored with
 [VADER](https://github.com/cjhutto/vaderSentiment) (Hutto & Gilbert, ICWSM
 2014). Hindi, Hinglish and other non-English text is routed to a
