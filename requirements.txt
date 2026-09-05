@@ -17,7 +17,7 @@ beautifulsoup4==4.12.3
 
 # Lightweight, pure-Python language detection (~1 MB, no model download).
 langdetect==1.0.9
-
+huggingface_hub>=0.30,<2
 # NOTE: multilingual (Hindi / Hinglish) sentiment needs transformers + torch.
 # Those are large, so they live in requirements-multilingual.txt and are
 # installed separately. The app runs fine without them — it just tells you
