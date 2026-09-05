@@ -4,7 +4,6 @@ A Flask web app that runs **one sentiment pipeline over four content
 sources** — pasted text, uploaded CSV datasets, YouTube video comments, and
 blog/article comments — with language-aware model routing.
 
-# Sentiment Lab
 
 ## 🚀 Live Demo
 
