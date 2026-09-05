@@ -70,6 +70,18 @@ redirects to `/analyze?source=dataset`, and the v1 JSON endpoints
 - 📈 **Sentiment Dashboard** — View positive, neutral, negative, confidence, and score statistics.
 - 🚀 **Live Deployment** — Hosted on Render and available through the Live Demo link above.
 
+  ## 🛠️ Technology Stack
+
+- **Backend:** Python, Flask
+- **Sentiment Analysis:** VADER
+- **Multilingual Model:** CardiffNLP XLM-RoBERTa
+- **Data Processing:** Pandas
+- **Web Requests:** Requests, BeautifulSoup
+- **Language Detection:** Langdetect
+- **API Integration:** YouTube Data API
+- **Deployment:** Render
+- **Repository:** GitHub
+
 ## Architecture
 
 Every source funnels into the same five stages:
