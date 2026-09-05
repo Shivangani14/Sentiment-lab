@@ -59,6 +59,17 @@ redirects to `/analyze?source=dataset`, and the v1 JSON endpoints
 
 ---
 
+## ✨ Features
+
+- 📝 **Single Text Analysis** — Analyze English, Hindi, Hinglish, and other text.
+- 📊 **Bulk CSV Analysis** — Upload datasets and automatically detect the text column.
+- ▶️ **YouTube Analysis** — Analyze comments from YouTube videos.
+- 📰 **Blog Analysis** — Extract and analyze comments from supported blog/article pages.
+- 🌐 **Multilingual Sentiment** — Non-English text is routed to a multilingual transformer model.
+- 🇬🇧 **English Sentiment** — English text is analyzed using VADER.
+- 📈 **Sentiment Dashboard** — View positive, neutral, negative, confidence, and score statistics.
+- 🚀 **Live Deployment** — Hosted on Render and available through the Live Demo link above.
+
 ## Architecture
 
 Every source funnels into the same five stages:
