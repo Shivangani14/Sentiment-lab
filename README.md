@@ -11,8 +11,8 @@ blog/article comments — with language-aware model routing.
 
 English text is scored with
 [VADER](https://github.com/cjhutto/vaderSentiment) (Hutto & Gilbert, ICWSM
-2014).English text is scored with VADER. Hindi, Hinglish and other non-English text is routed to the CardiffNLP XLM-RoBERTa multilingual model through Hugging Face Inference Providers. Every result — regardless of source or engine — is normalised into the same shape and rendered by the same dashboard.
-
+2014). Hindi, Hinglish and other non-English text is routed to the CardiffNLP
+XLM-RoBERTa multilingual model through Hugging Face Inference Providers.
 ---
 
 ## Contents
