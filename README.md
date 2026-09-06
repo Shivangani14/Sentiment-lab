@@ -11,10 +11,7 @@ blog/article comments — with language-aware model routing.
 
 English text is scored with
 [VADER](https://github.com/cjhutto/vaderSentiment) (Hutto & Gilbert, ICWSM
-2014). Hindi, Hinglish and other non-English text is routed to a
-transformer-based multilingual model instead. Every result — regardless of
-source or engine — is normalised into the same shape and rendered by the
-same dashboard.
+2014).English text is scored with VADER. Hindi, Hinglish and other non-English text is routed to the CardiffNLP XLM-RoBERTa multilingual model through Hugging Face Inference Providers. Every result — regardless of source or engine — is normalised into the same shape and rendered by the same dashboard.
 
 ---
 
@@ -74,7 +71,7 @@ redirects to `/analyze?source=dataset`, and the v1 JSON endpoints
 
 - **Backend:** Python, Flask
 - **Sentiment Analysis:** VADER
-- **Multilingual Model:** CardiffNLP XLM-RoBERTa
+🌐 **Multilingual Sentiment** — Non-English text is routed to the CardiffNLP XLM-RoBERTa model through Hugging Face Inference Providers.
 - **Data Processing:** Pandas
 - **Web Requests:** Requests, BeautifulSoup
 - **Language Detection:** Langdetect
